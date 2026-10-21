@@ -1,0 +1,16 @@
+#nexus
+begin sets;
+charset atp6 = 1-678;
+charset atp8 = 679-843;
+charset cox1 = 844-2373;
+charset cox2 = 2374-3054;
+charset cox3 = 3055-3843;
+charset cytb = 3844-4995;
+charset nad1 = 4996-5940;
+charset nad2 = 5941-6951;
+charset nad3 = 6952-7305;
+charset nad4 = 7306-8643;
+charset nad4l = 8644-8940;
+charset nad5 = 8941-10692;
+charset nad6 = 10693-11229;
+end;

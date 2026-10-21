@@ -1,0 +1,15 @@
+{
+  "CDS_records": 390,
+  "sense_codons": 111739,
+  "RSCU_records": 1860,
+  "RSCU_max_abs_difference": 4.975369458093404e-07,
+  "species_RSCU_records": 868,
+  "CodonW_input_matches": true,
+  "duplicate_pairs": 9,
+  "codon_start_values": [
+    1
+  ],
+  "Python": "3.12.14",
+  "Biopython": "1.88",
+  "external_phylogeny_and_CODEML_rerun": false
+}

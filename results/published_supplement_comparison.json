@@ -1,0 +1,7 @@
+{
+  "S1_gene_GC3s_all13_match_to_2_decimals": true,
+  "S1_gene_RSCU_AT_all13_match_to_3_decimals": true,
+  "S3_correlations_match_reported_rounding": true,
+  "comparison_source": "GDNA-FLRP-2026-0036.R2_octubre.pdf Supplementary Tables S1 and S3",
+  "MACSE_alignment_and_cleaning_not_rerun": true
+}
