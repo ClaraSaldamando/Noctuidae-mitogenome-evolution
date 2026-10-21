@@ -1,0 +1,10 @@
+#nexus
+begin sets;
+  charset atp6_atp8_nad2_nad3_nad6 = 1-678  679-843  5941-6951  6952-7305  10693-11229;
+  charset cox1_cox2_cox3_cytb = 844-2373  2374-3054  3055-3843  3844-4995;
+  charset nad1_nad4_nad4l_nad5 = 4996-5940  7306-8643  8644-8940  8941-10692;
+  charpartition mymodels =
+    GTR+F+I+G4: atp6_atp8_nad2_nad3_nad6,
+    GTR+F+I+G4: cox1_cox2_cox3_cytb,
+    TIM+F+R3: nad1_nad4_nad4l_nad5;
+end;
