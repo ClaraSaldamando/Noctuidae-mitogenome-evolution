@@ -1,0 +1,10 @@
+Upload the contents of this folder, not the containing folder or ZIP alone.
+
+scripts/01_reproduce_tables.py  Reconstruct composition, codon usage and statistics
+scripts/02_prepare_phylogeny.py  Reconstruct final concatenation and partitions
+scripts/03_plot_results.py  Generate analysis figures
+scripts/04_run_external.py  Optional external program reruns
+
+README.md provides complete execution instructions and remaining limits.
+The supplement contains the same numbered source files.
+provenance/recovered_blocks contains original historical attempts, not the run order.
