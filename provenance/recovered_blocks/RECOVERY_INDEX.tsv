@@ -1,0 +1,28 @@
+file	source_start_line	source_end_line	working_directory_from_history	origin_command	check	execution
+block_01_source_0028_0062.py	28	62	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_02_source_0069_0138.py	69	138	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_03_source_0143_0196.py	143	196	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_04_source_0202_0215.py	202	215	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_05_source_0219_0252.py	219	252	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_06_source_0263_0330.py	263	330	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_07_source_0333_0335.py	333	335	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_08_source_0339_0408.py	339	408	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	cat > generar_figura4_pr2.py <<'PY'	syntax_valid	not rerun
+block_09_source_0415_0425.py	415	425	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_10_source_0429_0463.py	429	463	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_11_source_0470_0488.py	470	488	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_12_source_0492_0498.py	492	498	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_13_source_0502_0541.py	502	541	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_14_source_0546_0569.py	546	569	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_15_source_0574_0616.py	574	616	~/noctuidae_mitogenomes_v2/revision_30_noctuidos	python - <<'PY'	syntax_valid	not rerun
+block_16_source_0625_0635.py	625	635	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_17_source_0639_0649.py	639	649	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_18_source_0654_0665.py	654	665	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_19_source_0669_0713.py	669	713	~/noctuidae_mitogenomes_v2	python - <<'PY'	syntax_valid	not rerun
+block_20_source_0717_0731.py	717	731	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_21_source_0736_0743.py	736	743	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_22_source_0747_0782.py	747	782	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_23_source_0785_0791.py	785	791	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_24_source_0794_0828.py	794	828	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_25_source_0832_0870.py	832	870	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_26_source_0891_0898.py	891	898	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
+block_27_source_0906_0914.py	906	914	~/noctuidae_mitogenomes_v2/revision_30_noctuidos/phylogeny_31	python - <<'PY'	syntax_valid	not rerun
