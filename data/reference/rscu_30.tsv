@@ -1,0 +1,1861 @@
+accession	species	amino_acid	codon	count	RSCU
+JN039362.1	Sesamia inferens	A	GCA	46	1.448819
+JN039362.1	Sesamia inferens	A	GCC	5	0.157480
+JN039362.1	Sesamia inferens	A	GCG	1	0.031496
+JN039362.1	Sesamia inferens	A	GCT	75	2.362205
+JN039362.1	Sesamia inferens	C	TGC	1	0.068966
+JN039362.1	Sesamia inferens	C	TGT	28	1.931034
+JN039362.1	Sesamia inferens	D	GAC	4	0.121212
+JN039362.1	Sesamia inferens	D	GAT	62	1.878788
+JN039362.1	Sesamia inferens	E	GAA	65	1.733333
+JN039362.1	Sesamia inferens	E	GAG	10	0.266667
+JN039362.1	Sesamia inferens	F	TTC	29	0.151042
+JN039362.1	Sesamia inferens	F	TTT	355	1.848958
+JN039362.1	Sesamia inferens	G	GGA	109	2.137255
+JN039362.1	Sesamia inferens	G	GGC	4	0.078431
+JN039362.1	Sesamia inferens	G	GGG	34	0.666667
+JN039362.1	Sesamia inferens	G	GGT	57	1.117647
+JN039362.1	Sesamia inferens	H	CAC	12	0.369231
+JN039362.1	Sesamia inferens	H	CAT	53	1.630769
+JN039362.1	Sesamia inferens	I	ATC	37	0.160173
+JN039362.1	Sesamia inferens	I	ATT	425	1.839827
+JN039362.1	Sesamia inferens	K	AAA	101	1.819820
+JN039362.1	Sesamia inferens	K	AAG	10	0.180180
+JN039362.1	Sesamia inferens	L	CTA	21	0.232044
+JN039362.1	Sesamia inferens	L	CTC	3	0.033149
+JN039362.1	Sesamia inferens	L	CTG	0	0.000000
+JN039362.1	Sesamia inferens	L	CTT	39	0.430939
+JN039362.1	Sesamia inferens	L	TTA	463	5.116022
+JN039362.1	Sesamia inferens	L	TTG	17	0.187845
+JN039362.1	Sesamia inferens	M	ATA	240	1.818182
+JN039362.1	Sesamia inferens	M	ATG	24	0.181818
+JN039362.1	Sesamia inferens	N	AAC	23	0.182540
+JN039362.1	Sesamia inferens	N	AAT	229	1.817460
+JN039362.1	Sesamia inferens	P	CCA	31	0.992000
+JN039362.1	Sesamia inferens	P	CCC	19	0.608000
+JN039362.1	Sesamia inferens	P	CCG	0	0.000000
+JN039362.1	Sesamia inferens	P	CCT	75	2.400000
+JN039362.1	Sesamia inferens	Q	CAA	64	2.000000
+JN039362.1	Sesamia inferens	Q	CAG	0	0.000000
+JN039362.1	Sesamia inferens	R	CGA	33	2.490566
+JN039362.1	Sesamia inferens	R	CGC	3	0.226415
+JN039362.1	Sesamia inferens	R	CGG	4	0.301887
+JN039362.1	Sesamia inferens	R	CGT	13	0.981132
+JN039362.1	Sesamia inferens	S	AGA	98	2.390244
+JN039362.1	Sesamia inferens	S	AGC	1	0.024390
+JN039362.1	Sesamia inferens	S	AGG	1	0.024390
+JN039362.1	Sesamia inferens	S	AGT	27	0.658537
+JN039362.1	Sesamia inferens	S	TCA	87	2.121951
+JN039362.1	Sesamia inferens	S	TCC	7	0.170732
+JN039362.1	Sesamia inferens	S	TCG	3	0.073171
+JN039362.1	Sesamia inferens	S	TCT	104	2.536585
+JN039362.1	Sesamia inferens	T	ACA	58	1.506494
+JN039362.1	Sesamia inferens	T	ACC	15	0.389610
+JN039362.1	Sesamia inferens	T	ACG	0	0.000000
+JN039362.1	Sesamia inferens	T	ACT	81	2.103896
+JN039362.1	Sesamia inferens	V	GTA	52	1.424658
+JN039362.1	Sesamia inferens	V	GTC	4	0.109589
+JN039362.1	Sesamia inferens	V	GTG	10	0.273973
+JN039362.1	Sesamia inferens	V	GTT	80	2.191781
+JN039362.1	Sesamia inferens	W	TGA	90	1.894737
+JN039362.1	Sesamia inferens	W	TGG	5	0.105263
+JN039362.1	Sesamia inferens	Y	TAC	12	0.129032
+JN039362.1	Sesamia inferens	Y	TAT	174	1.870968
+JX316220	Spodoptera exigua	A	GCA	40	1.269841
+JX316220	Spodoptera exigua	A	GCC	8	0.253968
+JX316220	Spodoptera exigua	A	GCG	1	0.031746
+JX316220	Spodoptera exigua	A	GCT	77	2.444444
+JX316220	Spodoptera exigua	C	TGC	1	0.064516
+JX316220	Spodoptera exigua	C	TGT	30	1.935484
+JX316220	Spodoptera exigua	D	GAC	9	0.268657
+JX316220	Spodoptera exigua	D	GAT	58	1.731343
+JX316220	Spodoptera exigua	E	GAA	66	1.859155
+JX316220	Spodoptera exigua	E	GAG	5	0.140845
+JX316220	Spodoptera exigua	F	TTC	24	0.130790
+JX316220	Spodoptera exigua	F	TTT	343	1.869210
+JX316220	Spodoptera exigua	G	GGA	115	2.300000
+JX316220	Spodoptera exigua	G	GGC	1	0.020000
+JX316220	Spodoptera exigua	G	GGG	19	0.380000
+JX316220	Spodoptera exigua	G	GGT	65	1.300000
+JX316220	Spodoptera exigua	H	CAC	9	0.268657
+JX316220	Spodoptera exigua	H	CAT	58	1.731343
+JX316220	Spodoptera exigua	I	ATC	22	0.097778
+JX316220	Spodoptera exigua	I	ATT	428	1.902222
+JX316220	Spodoptera exigua	K	AAA	97	1.779817
+JX316220	Spodoptera exigua	K	AAG	12	0.220183
+JX316220	Spodoptera exigua	L	CTA	21	0.227437
+JX316220	Spodoptera exigua	L	CTC	3	0.032491
+JX316220	Spodoptera exigua	L	CTG	0	0.000000
+JX316220	Spodoptera exigua	L	CTT	26	0.281588
+JX316220	Spodoptera exigua	L	TTA	490	5.306859
+JX316220	Spodoptera exigua	L	TTG	14	0.151625
+JX316220	Spodoptera exigua	M	ATA	253	1.813620
+JX316220	Spodoptera exigua	M	ATG	26	0.186380
+JX316220	Spodoptera exigua	N	AAC	14	0.110672
+JX316220	Spodoptera exigua	N	AAT	239	1.889328
+JX316220	Spodoptera exigua	P	CCA	51	1.632000
+JX316220	Spodoptera exigua	P	CCC	9	0.288000
+JX316220	Spodoptera exigua	P	CCG	2	0.064000
+JX316220	Spodoptera exigua	P	CCT	63	2.016000
+JX316220	Spodoptera exigua	Q	CAA	59	1.873016
+JX316220	Spodoptera exigua	Q	CAG	4	0.126984
+JX316220	Spodoptera exigua	R	CGA	31	2.339623
+JX316220	Spodoptera exigua	R	CGC	0	0.000000
+JX316220	Spodoptera exigua	R	CGG	5	0.377358
+JX316220	Spodoptera exigua	R	CGT	17	1.283019
+JX316220	Spodoptera exigua	S	AGA	96	2.370370
+JX316220	Spodoptera exigua	S	AGC	0	0.000000
+JX316220	Spodoptera exigua	S	AGG	0	0.000000
+JX316220	Spodoptera exigua	S	AGT	24	0.592593
+JX316220	Spodoptera exigua	S	TCA	80	1.975309
+JX316220	Spodoptera exigua	S	TCC	6	0.148148
+JX316220	Spodoptera exigua	S	TCG	1	0.024691
+JX316220	Spodoptera exigua	S	TCT	117	2.888889
+JX316220	Spodoptera exigua	T	ACA	67	1.835616
+JX316220	Spodoptera exigua	T	ACC	9	0.246575
+JX316220	Spodoptera exigua	T	ACG	0	0.000000
+JX316220	Spodoptera exigua	T	ACT	70	1.917808
+JX316220	Spodoptera exigua	V	GTA	68	1.754839
+JX316220	Spodoptera exigua	V	GTC	2	0.051613
+JX316220	Spodoptera exigua	V	GTG	2	0.051613
+JX316220	Spodoptera exigua	V	GTT	83	2.141935
+JX316220	Spodoptera exigua	W	TGA	95	1.958763
+JX316220	Spodoptera exigua	W	TGG	2	0.041237
+JX316220	Spodoptera exigua	Y	TAC	11	0.117647
+JX316220	Spodoptera exigua	Y	TAT	176	1.882353
+KC894725.1	Agrotis segetum	A	GCA	40	1.230769
+KC894725.1	Agrotis segetum	A	GCC	6	0.184615
+KC894725.1	Agrotis segetum	A	GCG	4	0.123077
+KC894725.1	Agrotis segetum	A	GCT	80	2.461538
+KC894725.1	Agrotis segetum	C	TGC	3	0.181818
+KC894725.1	Agrotis segetum	C	TGT	30	1.818182
+KC894725.1	Agrotis segetum	D	GAC	3	0.092308
+KC894725.1	Agrotis segetum	D	GAT	62	1.907692
+KC894725.1	Agrotis segetum	E	GAA	68	1.813333
+KC894725.1	Agrotis segetum	E	GAG	7	0.186667
+KC894725.1	Agrotis segetum	F	TTC	28	0.150538
+KC894725.1	Agrotis segetum	F	TTT	344	1.849462
+KC894725.1	Agrotis segetum	G	GGA	115	2.277228
+KC894725.1	Agrotis segetum	G	GGC	4	0.079208
+KC894725.1	Agrotis segetum	G	GGG	43	0.851485
+KC894725.1	Agrotis segetum	G	GGT	40	0.792079
+KC894725.1	Agrotis segetum	H	CAC	6	0.176471
+KC894725.1	Agrotis segetum	H	CAT	62	1.823529
+KC894725.1	Agrotis segetum	I	ATC	23	0.099352
+KC894725.1	Agrotis segetum	I	ATT	440	1.900648
+KC894725.1	Agrotis segetum	K	AAA	94	1.790476
+KC894725.1	Agrotis segetum	K	AAG	11	0.209524
+KC894725.1	Agrotis segetum	L	CTA	20	0.220183
+KC894725.1	Agrotis segetum	L	CTC	3	0.033028
+KC894725.1	Agrotis segetum	L	CTG	1	0.011009
+KC894725.1	Agrotis segetum	L	CTT	30	0.330275
+KC894725.1	Agrotis segetum	L	TTA	479	5.273394
+KC894725.1	Agrotis segetum	L	TTG	12	0.132110
+KC894725.1	Agrotis segetum	M	ATA	259	1.911439
+KC894725.1	Agrotis segetum	M	ATG	12	0.088561
+KC894725.1	Agrotis segetum	N	AAC	25	0.198413
+KC894725.1	Agrotis segetum	N	AAT	227	1.801587
+KC894725.1	Agrotis segetum	P	CCA	36	1.152000
+KC894725.1	Agrotis segetum	P	CCC	12	0.384000
+KC894725.1	Agrotis segetum	P	CCG	1	0.032000
+KC894725.1	Agrotis segetum	P	CCT	76	2.432000
+KC894725.1	Agrotis segetum	Q	CAA	62	2.000000
+KC894725.1	Agrotis segetum	Q	CAG	0	0.000000
+KC894725.1	Agrotis segetum	R	CGA	34	2.566038
+KC894725.1	Agrotis segetum	R	CGC	0	0.000000
+KC894725.1	Agrotis segetum	R	CGG	0	0.000000
+KC894725.1	Agrotis segetum	R	CGT	19	1.433962
+KC894725.1	Agrotis segetum	S	AGA	94	2.320988
+KC894725.1	Agrotis segetum	S	AGC	3	0.074074
+KC894725.1	Agrotis segetum	S	AGG	0	0.000000
+KC894725.1	Agrotis segetum	S	AGT	27	0.666667
+KC894725.1	Agrotis segetum	S	TCA	68	1.679012
+KC894725.1	Agrotis segetum	S	TCC	9	0.222222
+KC894725.1	Agrotis segetum	S	TCG	2	0.049383
+KC894725.1	Agrotis segetum	S	TCT	121	2.987654
+KC894725.1	Agrotis segetum	T	ACA	66	1.748344
+KC894725.1	Agrotis segetum	T	ACC	9	0.238411
+KC894725.1	Agrotis segetum	T	ACG	1	0.026490
+KC894725.1	Agrotis segetum	T	ACT	75	1.986755
+KC894725.1	Agrotis segetum	V	GTA	71	1.931973
+KC894725.1	Agrotis segetum	V	GTC	1	0.027211
+KC894725.1	Agrotis segetum	V	GTG	4	0.108844
+KC894725.1	Agrotis segetum	V	GTT	71	1.931973
+KC894725.1	Agrotis segetum	W	TGA	93	1.937500
+KC894725.1	Agrotis segetum	W	TGG	3	0.062500
+KC894725.1	Agrotis segetum	Y	TAC	18	0.191489
+KC894725.1	Agrotis segetum	Y	TAT	170	1.808511
+KF163965.1	Agrotis ipsilon	A	GCA	43	1.323077
+KF163965.1	Agrotis ipsilon	A	GCC	3	0.092308
+KF163965.1	Agrotis ipsilon	A	GCG	1	0.030769
+KF163965.1	Agrotis ipsilon	A	GCT	83	2.553846
+KF163965.1	Agrotis ipsilon	C	TGC	0	0.000000
+KF163965.1	Agrotis ipsilon	C	TGT	33	2.000000
+KF163965.1	Agrotis ipsilon	D	GAC	7	0.212121
+KF163965.1	Agrotis ipsilon	D	GAT	59	1.787879
+KF163965.1	Agrotis ipsilon	E	GAA	68	1.813333
+KF163965.1	Agrotis ipsilon	E	GAG	7	0.186667
+KF163965.1	Agrotis ipsilon	F	TTC	28	0.151351
+KF163965.1	Agrotis ipsilon	F	TTT	342	1.848649
+KF163965.1	Agrotis ipsilon	G	GGA	128	2.547264
+KF163965.1	Agrotis ipsilon	G	GGC	0	0.000000
+KF163965.1	Agrotis ipsilon	G	GGG	20	0.398010
+KF163965.1	Agrotis ipsilon	G	GGT	53	1.054726
+KF163965.1	Agrotis ipsilon	H	CAC	7	0.205882
+KF163965.1	Agrotis ipsilon	H	CAT	61	1.794118
+KF163965.1	Agrotis ipsilon	I	ATC	21	0.089552
+KF163965.1	Agrotis ipsilon	I	ATT	448	1.910448
+KF163965.1	Agrotis ipsilon	K	AAA	94	1.790476
+KF163965.1	Agrotis ipsilon	K	AAG	11	0.209524
+KF163965.1	Agrotis ipsilon	L	CTA	17	0.187500
+KF163965.1	Agrotis ipsilon	L	CTC	0	0.000000
+KF163965.1	Agrotis ipsilon	L	CTG	0	0.000000
+KF163965.1	Agrotis ipsilon	L	CTT	33	0.363971
+KF163965.1	Agrotis ipsilon	L	TTA	485	5.349265
+KF163965.1	Agrotis ipsilon	L	TTG	9	0.099265
+KF163965.1	Agrotis ipsilon	M	ATA	260	1.890909
+KF163965.1	Agrotis ipsilon	M	ATG	15	0.109091
+KF163965.1	Agrotis ipsilon	N	AAC	14	0.111554
+KF163965.1	Agrotis ipsilon	N	AAT	237	1.888446
+KF163965.1	Agrotis ipsilon	P	CCA	46	1.472000
+KF163965.1	Agrotis ipsilon	P	CCC	8	0.256000
+KF163965.1	Agrotis ipsilon	P	CCG	2	0.064000
+KF163965.1	Agrotis ipsilon	P	CCT	69	2.208000
+KF163965.1	Agrotis ipsilon	Q	CAA	61	1.967742
+KF163965.1	Agrotis ipsilon	Q	CAG	1	0.032258
+KF163965.1	Agrotis ipsilon	R	CGA	28	2.113208
+KF163965.1	Agrotis ipsilon	R	CGC	1	0.075472
+KF163965.1	Agrotis ipsilon	R	CGG	2	0.150943
+KF163965.1	Agrotis ipsilon	R	CGT	22	1.660377
+KF163965.1	Agrotis ipsilon	S	AGA	97	2.417445
+KF163965.1	Agrotis ipsilon	S	AGC	1	0.024922
+KF163965.1	Agrotis ipsilon	S	AGG	0	0.000000
+KF163965.1	Agrotis ipsilon	S	AGT	24	0.598131
+KF163965.1	Agrotis ipsilon	S	TCA	77	1.919003
+KF163965.1	Agrotis ipsilon	S	TCC	2	0.049844
+KF163965.1	Agrotis ipsilon	S	TCG	0	0.000000
+KF163965.1	Agrotis ipsilon	S	TCT	120	2.990654
+KF163965.1	Agrotis ipsilon	T	ACA	66	1.783784
+KF163965.1	Agrotis ipsilon	T	ACC	7	0.189189
+KF163965.1	Agrotis ipsilon	T	ACG	0	0.000000
+KF163965.1	Agrotis ipsilon	T	ACT	75	2.027027
+KF163965.1	Agrotis ipsilon	V	GTA	69	1.890411
+KF163965.1	Agrotis ipsilon	V	GTC	3	0.082192
+KF163965.1	Agrotis ipsilon	V	GTG	1	0.027397
+KF163965.1	Agrotis ipsilon	V	GTT	73	2.000000
+KF163965.1	Agrotis ipsilon	W	TGA	95	1.979167
+KF163965.1	Agrotis ipsilon	W	TGG	1	0.020833
+KF163965.1	Agrotis ipsilon	Y	TAC	9	0.095745
+KF163965.1	Agrotis ipsilon	Y	TAT	179	1.904255
+KF730242.1	Mythimna separata	A	GCA	41	1.242424
+KF730242.1	Mythimna separata	A	GCC	8	0.242424
+KF730242.1	Mythimna separata	A	GCG	2	0.060606
+KF730242.1	Mythimna separata	A	GCT	81	2.454545
+KF730242.1	Mythimna separata	C	TGC	1	0.062500
+KF730242.1	Mythimna separata	C	TGT	31	1.937500
+KF730242.1	Mythimna separata	D	GAC	7	0.208955
+KF730242.1	Mythimna separata	D	GAT	60	1.791045
+KF730242.1	Mythimna separata	E	GAA	71	1.918919
+KF730242.1	Mythimna separata	E	GAG	3	0.081081
+KF730242.1	Mythimna separata	F	TTC	29	0.155914
+KF730242.1	Mythimna separata	F	TTT	343	1.844086
+KF730242.1	Mythimna separata	G	GGA	124	2.480000
+KF730242.1	Mythimna separata	G	GGC	1	0.020000
+KF730242.1	Mythimna separata	G	GGG	23	0.460000
+KF730242.1	Mythimna separata	G	GGT	52	1.040000
+KF730242.1	Mythimna separata	H	CAC	3	0.090909
+KF730242.1	Mythimna separata	H	CAT	63	1.909091
+KF730242.1	Mythimna separata	I	ATC	19	0.081023
+KF730242.1	Mythimna separata	I	ATT	450	1.918977
+KF730242.1	Mythimna separata	K	AAA	99	1.885714
+KF730242.1	Mythimna separata	K	AAG	6	0.114286
+KF730242.1	Mythimna separata	L	CTA	23	0.256030
+KF730242.1	Mythimna separata	L	CTC	4	0.044527
+KF730242.1	Mythimna separata	L	CTG	0	0.000000
+KF730242.1	Mythimna separata	L	CTT	29	0.322820
+KF730242.1	Mythimna separata	L	TTA	472	5.254174
+KF730242.1	Mythimna separata	L	TTG	11	0.122449
+KF730242.1	Mythimna separata	M	ATA	256	1.841727
+KF730242.1	Mythimna separata	M	ATG	22	0.158273
+KF730242.1	Mythimna separata	N	AAC	21	0.167331
+KF730242.1	Mythimna separata	N	AAT	230	1.832669
+KF730242.1	Mythimna separata	P	CCA	34	1.096774
+KF730242.1	Mythimna separata	P	CCC	8	0.258065
+KF730242.1	Mythimna separata	P	CCG	0	0.000000
+KF730242.1	Mythimna separata	P	CCT	82	2.645161
+KF730242.1	Mythimna separata	Q	CAA	62	1.968254
+KF730242.1	Mythimna separata	Q	CAG	1	0.031746
+KF730242.1	Mythimna separata	R	CGA	34	2.566038
+KF730242.1	Mythimna separata	R	CGC	0	0.000000
+KF730242.1	Mythimna separata	R	CGG	0	0.000000
+KF730242.1	Mythimna separata	R	CGT	19	1.433962
+KF730242.1	Mythimna separata	S	AGA	91	2.226300
+KF730242.1	Mythimna separata	S	AGC	0	0.000000
+KF730242.1	Mythimna separata	S	AGG	0	0.000000
+KF730242.1	Mythimna separata	S	AGT	29	0.709480
+KF730242.1	Mythimna separata	S	TCA	94	2.299694
+KF730242.1	Mythimna separata	S	TCC	6	0.146789
+KF730242.1	Mythimna separata	S	TCG	0	0.000000
+KF730242.1	Mythimna separata	S	TCT	107	2.617737
+KF730242.1	Mythimna separata	T	ACA	61	1.615894
+KF730242.1	Mythimna separata	T	ACC	8	0.211921
+KF730242.1	Mythimna separata	T	ACG	1	0.026490
+KF730242.1	Mythimna separata	T	ACT	81	2.145695
+KF730242.1	Mythimna separata	V	GTA	63	1.826087
+KF730242.1	Mythimna separata	V	GTC	3	0.086957
+KF730242.1	Mythimna separata	V	GTG	4	0.115942
+KF730242.1	Mythimna separata	V	GTT	68	1.971014
+KF730242.1	Mythimna separata	W	TGA	95	1.979167
+KF730242.1	Mythimna separata	W	TGG	1	0.020833
+KF730242.1	Mythimna separata	Y	TAC	9	0.096257
+KF730242.1	Mythimna separata	Y	TAT	178	1.903743
+MF152840.1	Athetis lepigone	A	GCA	45	1.406250
+MF152840.1	Athetis lepigone	A	GCC	6	0.187500
+MF152840.1	Athetis lepigone	A	GCG	2	0.062500
+MF152840.1	Athetis lepigone	A	GCT	75	2.343750
+MF152840.1	Athetis lepigone	C	TGC	2	0.121212
+MF152840.1	Athetis lepigone	C	TGT	31	1.878788
+MF152840.1	Athetis lepigone	D	GAC	6	0.184615
+MF152840.1	Athetis lepigone	D	GAT	59	1.815385
+MF152840.1	Athetis lepigone	E	GAA	67	1.786667
+MF152840.1	Athetis lepigone	E	GAG	8	0.213333
+MF152840.1	Athetis lepigone	F	TTC	26	0.139785
+MF152840.1	Athetis lepigone	F	TTT	346	1.860215
+MF152840.1	Athetis lepigone	G	GGA	121	2.420000
+MF152840.1	Athetis lepigone	G	GGC	0	0.000000
+MF152840.1	Athetis lepigone	G	GGG	25	0.500000
+MF152840.1	Athetis lepigone	G	GGT	54	1.080000
+MF152840.1	Athetis lepigone	H	CAC	9	0.268657
+MF152840.1	Athetis lepigone	H	CAT	58	1.731343
+MF152840.1	Athetis lepigone	I	ATC	14	0.058700
+MF152840.1	Athetis lepigone	I	ATT	463	1.941300
+MF152840.1	Athetis lepigone	K	AAA	98	1.884615
+MF152840.1	Athetis lepigone	K	AAG	6	0.115385
+MF152840.1	Athetis lepigone	L	CTA	16	0.175503
+MF152840.1	Athetis lepigone	L	CTC	0	0.000000
+MF152840.1	Athetis lepigone	L	CTG	0	0.000000
+MF152840.1	Athetis lepigone	L	CTT	36	0.394881
+MF152840.1	Athetis lepigone	L	TTA	474	5.199269
+MF152840.1	Athetis lepigone	L	TTG	21	0.230347
+MF152840.1	Athetis lepigone	M	ATA	253	1.853480
+MF152840.1	Athetis lepigone	M	ATG	20	0.146520
+MF152840.1	Athetis lepigone	N	AAC	13	0.102767
+MF152840.1	Athetis lepigone	N	AAT	240	1.897233
+MF152840.1	Athetis lepigone	P	CCA	35	1.120000
+MF152840.1	Athetis lepigone	P	CCC	8	0.256000
+MF152840.1	Athetis lepigone	P	CCG	1	0.032000
+MF152840.1	Athetis lepigone	P	CCT	81	2.592000
+MF152840.1	Athetis lepigone	Q	CAA	62	2.000000
+MF152840.1	Athetis lepigone	Q	CAG	0	0.000000
+MF152840.1	Athetis lepigone	R	CGA	39	2.943396
+MF152840.1	Athetis lepigone	R	CGC	0	0.000000
+MF152840.1	Athetis lepigone	R	CGG	1	0.075472
+MF152840.1	Athetis lepigone	R	CGT	13	0.981132
+MF152840.1	Athetis lepigone	S	AGA	100	2.461538
+MF152840.1	Athetis lepigone	S	AGC	1	0.024615
+MF152840.1	Athetis lepigone	S	AGG	0	0.000000
+MF152840.1	Athetis lepigone	S	AGT	21	0.516923
+MF152840.1	Athetis lepigone	S	TCA	76	1.870769
+MF152840.1	Athetis lepigone	S	TCC	7	0.172308
+MF152840.1	Athetis lepigone	S	TCG	1	0.024615
+MF152840.1	Athetis lepigone	S	TCT	119	2.929231
+MF152840.1	Athetis lepigone	T	ACA	53	1.442177
+MF152840.1	Athetis lepigone	T	ACC	5	0.136054
+MF152840.1	Athetis lepigone	T	ACG	3	0.081633
+MF152840.1	Athetis lepigone	T	ACT	86	2.340136
+MF152840.1	Athetis lepigone	V	GTA	67	1.914286
+MF152840.1	Athetis lepigone	V	GTC	1	0.028571
+MF152840.1	Athetis lepigone	V	GTG	3	0.085714
+MF152840.1	Athetis lepigone	V	GTT	69	1.971429
+MF152840.1	Athetis lepigone	W	TGA	93	1.937500
+MF152840.1	Athetis lepigone	W	TGG	3	0.062500
+MF152840.1	Athetis lepigone	Y	TAC	11	0.117647
+MF152840.1	Athetis lepigone	Y	TAT	176	1.882353
+MF152841.1	Athetis lepigone	A	GCA	45	1.406250
+MF152841.1	Athetis lepigone	A	GCC	6	0.187500
+MF152841.1	Athetis lepigone	A	GCG	2	0.062500
+MF152841.1	Athetis lepigone	A	GCT	75	2.343750
+MF152841.1	Athetis lepigone	C	TGC	2	0.121212
+MF152841.1	Athetis lepigone	C	TGT	31	1.878788
+MF152841.1	Athetis lepigone	D	GAC	5	0.153846
+MF152841.1	Athetis lepigone	D	GAT	60	1.846154
+MF152841.1	Athetis lepigone	E	GAA	66	1.760000
+MF152841.1	Athetis lepigone	E	GAG	9	0.240000
+MF152841.1	Athetis lepigone	F	TTC	26	0.139785
+MF152841.1	Athetis lepigone	F	TTT	346	1.860215
+MF152841.1	Athetis lepigone	G	GGA	117	2.340000
+MF152841.1	Athetis lepigone	G	GGC	1	0.020000
+MF152841.1	Athetis lepigone	G	GGG	30	0.600000
+MF152841.1	Athetis lepigone	G	GGT	52	1.040000
+MF152841.1	Athetis lepigone	H	CAC	8	0.242424
+MF152841.1	Athetis lepigone	H	CAT	58	1.757576
+MF152841.1	Athetis lepigone	I	ATC	13	0.054622
+MF152841.1	Athetis lepigone	I	ATT	463	1.945378
+MF152841.1	Athetis lepigone	K	AAA	98	1.884615
+MF152841.1	Athetis lepigone	K	AAG	6	0.115385
+MF152841.1	Athetis lepigone	L	CTA	17	0.186472
+MF152841.1	Athetis lepigone	L	CTC	0	0.000000
+MF152841.1	Athetis lepigone	L	CTG	0	0.000000
+MF152841.1	Athetis lepigone	L	CTT	36	0.394881
+MF152841.1	Athetis lepigone	L	TTA	473	5.188300
+MF152841.1	Athetis lepigone	L	TTG	21	0.230347
+MF152841.1	Athetis lepigone	M	ATA	253	1.860294
+MF152841.1	Athetis lepigone	M	ATG	19	0.139706
+MF152841.1	Athetis lepigone	N	AAC	13	0.102362
+MF152841.1	Athetis lepigone	N	AAT	241	1.897638
+MF152841.1	Athetis lepigone	P	CCA	35	1.120000
+MF152841.1	Athetis lepigone	P	CCC	8	0.256000
+MF152841.1	Athetis lepigone	P	CCG	1	0.032000
+MF152841.1	Athetis lepigone	P	CCT	81	2.592000
+MF152841.1	Athetis lepigone	Q	CAA	62	2.000000
+MF152841.1	Athetis lepigone	Q	CAG	0	0.000000
+MF152841.1	Athetis lepigone	R	CGA	39	2.943396
+MF152841.1	Athetis lepigone	R	CGC	1	0.075472
+MF152841.1	Athetis lepigone	R	CGG	1	0.075472
+MF152841.1	Athetis lepigone	R	CGT	12	0.905660
+MF152841.1	Athetis lepigone	S	AGA	100	2.453988
+MF152841.1	Athetis lepigone	S	AGC	2	0.049080
+MF152841.1	Athetis lepigone	S	AGG	0	0.000000
+MF152841.1	Athetis lepigone	S	AGT	21	0.515337
+MF152841.1	Athetis lepigone	S	TCA	76	1.865031
+MF152841.1	Athetis lepigone	S	TCC	8	0.196319
+MF152841.1	Athetis lepigone	S	TCG	1	0.024540
+MF152841.1	Athetis lepigone	S	TCT	118	2.895706
+MF152841.1	Athetis lepigone	T	ACA	53	1.442177
+MF152841.1	Athetis lepigone	T	ACC	5	0.136054
+MF152841.1	Athetis lepigone	T	ACG	3	0.081633
+MF152841.1	Athetis lepigone	T	ACT	86	2.340136
+MF152841.1	Athetis lepigone	V	GTA	66	1.872340
+MF152841.1	Athetis lepigone	V	GTC	1	0.028369
+MF152841.1	Athetis lepigone	V	GTG	3	0.085106
+MF152841.1	Athetis lepigone	V	GTT	71	2.014184
+MF152841.1	Athetis lepigone	W	TGA	93	1.937500
+MF152841.1	Athetis lepigone	W	TGG	3	0.062500
+MF152841.1	Athetis lepigone	Y	TAC	8	0.085561
+MF152841.1	Athetis lepigone	Y	TAT	179	1.914439
+MF152842.1	Athetis lepigone	A	GCA	45	1.406250
+MF152842.1	Athetis lepigone	A	GCC	8	0.250000
+MF152842.1	Athetis lepigone	A	GCG	2	0.062500
+MF152842.1	Athetis lepigone	A	GCT	73	2.281250
+MF152842.1	Athetis lepigone	C	TGC	2	0.121212
+MF152842.1	Athetis lepigone	C	TGT	31	1.878788
+MF152842.1	Athetis lepigone	D	GAC	5	0.153846
+MF152842.1	Athetis lepigone	D	GAT	60	1.846154
+MF152842.1	Athetis lepigone	E	GAA	67	1.786667
+MF152842.1	Athetis lepigone	E	GAG	8	0.213333
+MF152842.1	Athetis lepigone	F	TTC	26	0.139785
+MF152842.1	Athetis lepigone	F	TTT	346	1.860215
+MF152842.1	Athetis lepigone	G	GGA	122	2.440000
+MF152842.1	Athetis lepigone	G	GGC	1	0.020000
+MF152842.1	Athetis lepigone	G	GGG	25	0.500000
+MF152842.1	Athetis lepigone	G	GGT	52	1.040000
+MF152842.1	Athetis lepigone	H	CAC	7	0.208955
+MF152842.1	Athetis lepigone	H	CAT	60	1.791045
+MF152842.1	Athetis lepigone	I	ATC	13	0.054622
+MF152842.1	Athetis lepigone	I	ATT	463	1.945378
+MF152842.1	Athetis lepigone	K	AAA	99	1.903846
+MF152842.1	Athetis lepigone	K	AAG	5	0.096154
+MF152842.1	Athetis lepigone	L	CTA	16	0.175503
+MF152842.1	Athetis lepigone	L	CTC	0	0.000000
+MF152842.1	Athetis lepigone	L	CTG	0	0.000000
+MF152842.1	Athetis lepigone	L	CTT	36	0.394881
+MF152842.1	Athetis lepigone	L	TTA	477	5.232176
+MF152842.1	Athetis lepigone	L	TTG	18	0.197441
+MF152842.1	Athetis lepigone	M	ATA	251	1.845588
+MF152842.1	Athetis lepigone	M	ATG	21	0.154412
+MF152842.1	Athetis lepigone	N	AAC	12	0.094488
+MF152842.1	Athetis lepigone	N	AAT	242	1.905512
+MF152842.1	Athetis lepigone	P	CCA	35	1.120000
+MF152842.1	Athetis lepigone	P	CCC	8	0.256000
+MF152842.1	Athetis lepigone	P	CCG	1	0.032000
+MF152842.1	Athetis lepigone	P	CCT	81	2.592000
+MF152842.1	Athetis lepigone	Q	CAA	62	2.000000
+MF152842.1	Athetis lepigone	Q	CAG	0	0.000000
+MF152842.1	Athetis lepigone	R	CGA	40	3.018868
+MF152842.1	Athetis lepigone	R	CGC	0	0.000000
+MF152842.1	Athetis lepigone	R	CGG	0	0.000000
+MF152842.1	Athetis lepigone	R	CGT	13	0.981132
+MF152842.1	Athetis lepigone	S	AGA	100	2.461538
+MF152842.1	Athetis lepigone	S	AGC	2	0.049231
+MF152842.1	Athetis lepigone	S	AGG	0	0.000000
+MF152842.1	Athetis lepigone	S	AGT	20	0.492308
+MF152842.1	Athetis lepigone	S	TCA	76	1.870769
+MF152842.1	Athetis lepigone	S	TCC	7	0.172308
+MF152842.1	Athetis lepigone	S	TCG	1	0.024615
+MF152842.1	Athetis lepigone	S	TCT	119	2.929231
+MF152842.1	Athetis lepigone	T	ACA	53	1.442177
+MF152842.1	Athetis lepigone	T	ACC	5	0.136054
+MF152842.1	Athetis lepigone	T	ACG	3	0.081633
+MF152842.1	Athetis lepigone	T	ACT	86	2.340136
+MF152842.1	Athetis lepigone	V	GTA	67	1.900709
+MF152842.1	Athetis lepigone	V	GTC	1	0.028369
+MF152842.1	Athetis lepigone	V	GTG	3	0.085106
+MF152842.1	Athetis lepigone	V	GTT	70	1.985816
+MF152842.1	Athetis lepigone	W	TGA	93	1.937500
+MF152842.1	Athetis lepigone	W	TGG	3	0.062500
+MF152842.1	Athetis lepigone	Y	TAC	10	0.106952
+MF152842.1	Athetis lepigone	Y	TAT	177	1.893048
+MG437190.1	Helicoverpa armigera armigera	A	GCA	42	1.377049
+MG437190.1	Helicoverpa armigera armigera	A	GCC	7	0.229508
+MG437190.1	Helicoverpa armigera armigera	A	GCG	1	0.032787
+MG437190.1	Helicoverpa armigera armigera	A	GCT	72	2.360656
+MG437190.1	Helicoverpa armigera armigera	C	TGC	2	0.129032
+MG437190.1	Helicoverpa armigera armigera	C	TGT	29	1.870968
+MG437190.1	Helicoverpa armigera armigera	D	GAC	8	0.242424
+MG437190.1	Helicoverpa armigera armigera	D	GAT	58	1.757576
+MG437190.1	Helicoverpa armigera armigera	E	GAA	68	1.888889
+MG437190.1	Helicoverpa armigera armigera	E	GAG	4	0.111111
+MG437190.1	Helicoverpa armigera armigera	F	TTC	30	0.163934
+MG437190.1	Helicoverpa armigera armigera	F	TTT	336	1.836066
+MG437190.1	Helicoverpa armigera armigera	G	GGA	121	2.384236
+MG437190.1	Helicoverpa armigera armigera	G	GGC	3	0.059113
+MG437190.1	Helicoverpa armigera armigera	G	GGG	15	0.295567
+MG437190.1	Helicoverpa armigera armigera	G	GGT	64	1.261084
+MG437190.1	Helicoverpa armigera armigera	H	CAC	7	0.208955
+MG437190.1	Helicoverpa armigera armigera	H	CAT	60	1.791045
+MG437190.1	Helicoverpa armigera armigera	I	ATC	26	0.112311
+MG437190.1	Helicoverpa armigera armigera	I	ATT	437	1.887689
+MG437190.1	Helicoverpa armigera armigera	K	AAA	97	1.813084
+MG437190.1	Helicoverpa armigera armigera	K	AAG	10	0.186916
+MG437190.1	Helicoverpa armigera armigera	L	CTA	17	0.191370
+MG437190.1	Helicoverpa armigera armigera	L	CTC	1	0.011257
+MG437190.1	Helicoverpa armigera armigera	L	CTG	0	0.000000
+MG437190.1	Helicoverpa armigera armigera	L	CTT	29	0.326454
+MG437190.1	Helicoverpa armigera armigera	L	TTA	477	5.369606
+MG437190.1	Helicoverpa armigera armigera	L	TTG	9	0.101313
+MG437190.1	Helicoverpa armigera armigera	M	ATA	265	1.892857
+MG437190.1	Helicoverpa armigera armigera	M	ATG	15	0.107143
+MG437190.1	Helicoverpa armigera armigera	N	AAC	22	0.169884
+MG437190.1	Helicoverpa armigera armigera	N	AAT	237	1.830116
+MG437190.1	Helicoverpa armigera armigera	P	CCA	43	1.376000
+MG437190.1	Helicoverpa armigera armigera	P	CCC	17	0.544000
+MG437190.1	Helicoverpa armigera armigera	P	CCG	2	0.064000
+MG437190.1	Helicoverpa armigera armigera	P	CCT	63	2.016000
+MG437190.1	Helicoverpa armigera armigera	Q	CAA	63	1.938462
+MG437190.1	Helicoverpa armigera armigera	Q	CAG	2	0.061538
+MG437190.1	Helicoverpa armigera armigera	R	CGA	37	2.846154
+MG437190.1	Helicoverpa armigera armigera	R	CGC	0	0.000000
+MG437190.1	Helicoverpa armigera armigera	R	CGG	2	0.153846
+MG437190.1	Helicoverpa armigera armigera	R	CGT	13	1.000000
+MG437190.1	Helicoverpa armigera armigera	S	AGA	85	2.158730
+MG437190.1	Helicoverpa armigera armigera	S	AGC	2	0.050794
+MG437190.1	Helicoverpa armigera armigera	S	AGG	0	0.000000
+MG437190.1	Helicoverpa armigera armigera	S	AGT	31	0.787302
+MG437190.1	Helicoverpa armigera armigera	S	TCA	66	1.676190
+MG437190.1	Helicoverpa armigera armigera	S	TCC	7	0.177778
+MG437190.1	Helicoverpa armigera armigera	S	TCG	0	0.000000
+MG437190.1	Helicoverpa armigera armigera	S	TCT	124	3.149206
+MG437190.1	Helicoverpa armigera armigera	T	ACA	64	1.610063
+MG437190.1	Helicoverpa armigera armigera	T	ACC	9	0.226415
+MG437190.1	Helicoverpa armigera armigera	T	ACG	1	0.025157
+MG437190.1	Helicoverpa armigera armigera	T	ACT	85	2.138365
+MG437190.1	Helicoverpa armigera armigera	V	GTA	72	1.894737
+MG437190.1	Helicoverpa armigera armigera	V	GTC	2	0.052632
+MG437190.1	Helicoverpa armigera armigera	V	GTG	6	0.157895
+MG437190.1	Helicoverpa armigera armigera	V	GTT	72	1.894737
+MG437190.1	Helicoverpa armigera armigera	W	TGA	95	1.958763
+MG437190.1	Helicoverpa armigera armigera	W	TGG	2	0.041237
+MG437190.1	Helicoverpa armigera armigera	Y	TAC	16	0.168421
+MG437190.1	Helicoverpa armigera armigera	Y	TAT	174	1.831579
+MG437193.1	Helicoverpa armigera armigera	A	GCA	42	1.377049
+MG437193.1	Helicoverpa armigera armigera	A	GCC	6	0.196721
+MG437193.1	Helicoverpa armigera armigera	A	GCG	1	0.032787
+MG437193.1	Helicoverpa armigera armigera	A	GCT	73	2.393443
+MG437193.1	Helicoverpa armigera armigera	C	TGC	2	0.129032
+MG437193.1	Helicoverpa armigera armigera	C	TGT	29	1.870968
+MG437193.1	Helicoverpa armigera armigera	D	GAC	7	0.212121
+MG437193.1	Helicoverpa armigera armigera	D	GAT	59	1.787879
+MG437193.1	Helicoverpa armigera armigera	E	GAA	68	1.888889
+MG437193.1	Helicoverpa armigera armigera	E	GAG	4	0.111111
+MG437193.1	Helicoverpa armigera armigera	F	TTC	31	0.169399
+MG437193.1	Helicoverpa armigera armigera	F	TTT	335	1.830601
+MG437193.1	Helicoverpa armigera armigera	G	GGA	124	2.443350
+MG437193.1	Helicoverpa armigera armigera	G	GGC	3	0.059113
+MG437193.1	Helicoverpa armigera armigera	G	GGG	12	0.236453
+MG437193.1	Helicoverpa armigera armigera	G	GGT	64	1.261084
+MG437193.1	Helicoverpa armigera armigera	H	CAC	7	0.208955
+MG437193.1	Helicoverpa armigera armigera	H	CAT	60	1.791045
+MG437193.1	Helicoverpa armigera armigera	I	ATC	26	0.112311
+MG437193.1	Helicoverpa armigera armigera	I	ATT	437	1.887689
+MG437193.1	Helicoverpa armigera armigera	K	AAA	99	1.850467
+MG437193.1	Helicoverpa armigera armigera	K	AAG	8	0.149533
+MG437193.1	Helicoverpa armigera armigera	L	CTA	18	0.202627
+MG437193.1	Helicoverpa armigera armigera	L	CTC	1	0.011257
+MG437193.1	Helicoverpa armigera armigera	L	CTG	0	0.000000
+MG437193.1	Helicoverpa armigera armigera	L	CTT	29	0.326454
+MG437193.1	Helicoverpa armigera armigera	L	TTA	475	5.347092
+MG437193.1	Helicoverpa armigera armigera	L	TTG	10	0.112570
+MG437193.1	Helicoverpa armigera armigera	M	ATA	264	1.885714
+MG437193.1	Helicoverpa armigera armigera	M	ATG	16	0.114286
+MG437193.1	Helicoverpa armigera armigera	N	AAC	22	0.169884
+MG437193.1	Helicoverpa armigera armigera	N	AAT	237	1.830116
+MG437193.1	Helicoverpa armigera armigera	P	CCA	43	1.376000
+MG437193.1	Helicoverpa armigera armigera	P	CCC	18	0.576000
+MG437193.1	Helicoverpa armigera armigera	P	CCG	1	0.032000
+MG437193.1	Helicoverpa armigera armigera	P	CCT	63	2.016000
+MG437193.1	Helicoverpa armigera armigera	Q	CAA	63	1.938462
+MG437193.1	Helicoverpa armigera armigera	Q	CAG	2	0.061538
+MG437193.1	Helicoverpa armigera armigera	R	CGA	37	2.846154
+MG437193.1	Helicoverpa armigera armigera	R	CGC	0	0.000000
+MG437193.1	Helicoverpa armigera armigera	R	CGG	2	0.153846
+MG437193.1	Helicoverpa armigera armigera	R	CGT	13	1.000000
+MG437193.1	Helicoverpa armigera armigera	S	AGA	85	2.158730
+MG437193.1	Helicoverpa armigera armigera	S	AGC	2	0.050794
+MG437193.1	Helicoverpa armigera armigera	S	AGG	0	0.000000
+MG437193.1	Helicoverpa armigera armigera	S	AGT	31	0.787302
+MG437193.1	Helicoverpa armigera armigera	S	TCA	66	1.676190
+MG437193.1	Helicoverpa armigera armigera	S	TCC	7	0.177778
+MG437193.1	Helicoverpa armigera armigera	S	TCG	0	0.000000
+MG437193.1	Helicoverpa armigera armigera	S	TCT	124	3.149206
+MG437193.1	Helicoverpa armigera armigera	T	ACA	64	1.610063
+MG437193.1	Helicoverpa armigera armigera	T	ACC	7	0.176101
+MG437193.1	Helicoverpa armigera armigera	T	ACG	1	0.025157
+MG437193.1	Helicoverpa armigera armigera	T	ACT	87	2.188679
+MG437193.1	Helicoverpa armigera armigera	V	GTA	73	1.921053
+MG437193.1	Helicoverpa armigera armigera	V	GTC	2	0.052632
+MG437193.1	Helicoverpa armigera armigera	V	GTG	5	0.131579
+MG437193.1	Helicoverpa armigera armigera	V	GTT	72	1.894737
+MG437193.1	Helicoverpa armigera armigera	W	TGA	95	1.958763
+MG437193.1	Helicoverpa armigera armigera	W	TGG	2	0.041237
+MG437193.1	Helicoverpa armigera armigera	Y	TAC	15	0.157895
+MG437193.1	Helicoverpa armigera armigera	Y	TAT	175	1.842105
+MG437194.1	Helicoverpa armigera conferta	A	GCA	42	1.377049
+MG437194.1	Helicoverpa armigera conferta	A	GCC	7	0.229508
+MG437194.1	Helicoverpa armigera conferta	A	GCG	1	0.032787
+MG437194.1	Helicoverpa armigera conferta	A	GCT	72	2.360656
+MG437194.1	Helicoverpa armigera conferta	C	TGC	2	0.129032
+MG437194.1	Helicoverpa armigera conferta	C	TGT	29	1.870968
+MG437194.1	Helicoverpa armigera conferta	D	GAC	8	0.242424
+MG437194.1	Helicoverpa armigera conferta	D	GAT	58	1.757576
+MG437194.1	Helicoverpa armigera conferta	E	GAA	68	1.888889
+MG437194.1	Helicoverpa armigera conferta	E	GAG	4	0.111111
+MG437194.1	Helicoverpa armigera conferta	F	TTC	30	0.163934
+MG437194.1	Helicoverpa armigera conferta	F	TTT	336	1.836066
+MG437194.1	Helicoverpa armigera conferta	G	GGA	119	2.344828
+MG437194.1	Helicoverpa armigera conferta	G	GGC	4	0.078818
+MG437194.1	Helicoverpa armigera conferta	G	GGG	17	0.334975
+MG437194.1	Helicoverpa armigera conferta	G	GGT	63	1.241379
+MG437194.1	Helicoverpa armigera conferta	H	CAC	7	0.208955
+MG437194.1	Helicoverpa armigera conferta	H	CAT	60	1.791045
+MG437194.1	Helicoverpa armigera conferta	I	ATC	26	0.112311
+MG437194.1	Helicoverpa armigera conferta	I	ATT	437	1.887689
+MG437194.1	Helicoverpa armigera conferta	K	AAA	98	1.831776
+MG437194.1	Helicoverpa armigera conferta	K	AAG	9	0.168224
+MG437194.1	Helicoverpa armigera conferta	L	CTA	16	0.180113
+MG437194.1	Helicoverpa armigera conferta	L	CTC	1	0.011257
+MG437194.1	Helicoverpa armigera conferta	L	CTG	0	0.000000
+MG437194.1	Helicoverpa armigera conferta	L	CTT	29	0.326454
+MG437194.1	Helicoverpa armigera conferta	L	TTA	477	5.369606
+MG437194.1	Helicoverpa armigera conferta	L	TTG	10	0.112570
+MG437194.1	Helicoverpa armigera conferta	M	ATA	264	1.885714
+MG437194.1	Helicoverpa armigera conferta	M	ATG	16	0.114286
+MG437194.1	Helicoverpa armigera conferta	N	AAC	23	0.177606
+MG437194.1	Helicoverpa armigera conferta	N	AAT	236	1.822394
+MG437194.1	Helicoverpa armigera conferta	P	CCA	43	1.376000
+MG437194.1	Helicoverpa armigera conferta	P	CCC	17	0.544000
+MG437194.1	Helicoverpa armigera conferta	P	CCG	2	0.064000
+MG437194.1	Helicoverpa armigera conferta	P	CCT	63	2.016000
+MG437194.1	Helicoverpa armigera conferta	Q	CAA	63	1.938462
+MG437194.1	Helicoverpa armigera conferta	Q	CAG	2	0.061538
+MG437194.1	Helicoverpa armigera conferta	R	CGA	37	2.846154
+MG437194.1	Helicoverpa armigera conferta	R	CGC	0	0.000000
+MG437194.1	Helicoverpa armigera conferta	R	CGG	2	0.153846
+MG437194.1	Helicoverpa armigera conferta	R	CGT	13	1.000000
+MG437194.1	Helicoverpa armigera conferta	S	AGA	85	2.158730
+MG437194.1	Helicoverpa armigera conferta	S	AGC	2	0.050794
+MG437194.1	Helicoverpa armigera conferta	S	AGG	0	0.000000
+MG437194.1	Helicoverpa armigera conferta	S	AGT	31	0.787302
+MG437194.1	Helicoverpa armigera conferta	S	TCA	66	1.676190
+MG437194.1	Helicoverpa armigera conferta	S	TCC	7	0.177778
+MG437194.1	Helicoverpa armigera conferta	S	TCG	0	0.000000
+MG437194.1	Helicoverpa armigera conferta	S	TCT	124	3.149206
+MG437194.1	Helicoverpa armigera conferta	T	ACA	64	1.610063
+MG437194.1	Helicoverpa armigera conferta	T	ACC	9	0.226415
+MG437194.1	Helicoverpa armigera conferta	T	ACG	1	0.025157
+MG437194.1	Helicoverpa armigera conferta	T	ACT	85	2.138365
+MG437194.1	Helicoverpa armigera conferta	V	GTA	73	1.921053
+MG437194.1	Helicoverpa armigera conferta	V	GTC	2	0.052632
+MG437194.1	Helicoverpa armigera conferta	V	GTG	5	0.131579
+MG437194.1	Helicoverpa armigera conferta	V	GTT	72	1.894737
+MG437194.1	Helicoverpa armigera conferta	W	TGA	95	1.958763
+MG437194.1	Helicoverpa armigera conferta	W	TGG	2	0.041237
+MG437194.1	Helicoverpa armigera conferta	Y	TAC	12	0.126316
+MG437194.1	Helicoverpa armigera conferta	Y	TAT	178	1.873684
+MK358044.1	Trichoplusia ni	A	GCA	35	1.111111
+MK358044.1	Trichoplusia ni	A	GCC	10	0.317460
+MK358044.1	Trichoplusia ni	A	GCG	4	0.126984
+MK358044.1	Trichoplusia ni	A	GCT	77	2.444444
+MK358044.1	Trichoplusia ni	C	TGC	5	0.333333
+MK358044.1	Trichoplusia ni	C	TGT	25	1.666667
+MK358044.1	Trichoplusia ni	D	GAC	7	0.212121
+MK358044.1	Trichoplusia ni	D	GAT	59	1.787879
+MK358044.1	Trichoplusia ni	E	GAA	67	1.835616
+MK358044.1	Trichoplusia ni	E	GAG	6	0.164384
+MK358044.1	Trichoplusia ni	F	TTC	21	0.115068
+MK358044.1	Trichoplusia ni	F	TTT	344	1.884932
+MK358044.1	Trichoplusia ni	G	GGA	116	2.320000
+MK358044.1	Trichoplusia ni	G	GGC	5	0.100000
+MK358044.1	Trichoplusia ni	G	GGG	36	0.720000
+MK358044.1	Trichoplusia ni	G	GGT	43	0.860000
+MK358044.1	Trichoplusia ni	H	CAC	8	0.238806
+MK358044.1	Trichoplusia ni	H	CAT	59	1.761194
+MK358044.1	Trichoplusia ni	I	ATC	19	0.083151
+MK358044.1	Trichoplusia ni	I	ATT	438	1.916849
+MK358044.1	Trichoplusia ni	K	AAA	96	1.900990
+MK358044.1	Trichoplusia ni	K	AAG	5	0.099010
+MK358044.1	Trichoplusia ni	L	CTA	18	0.204159
+MK358044.1	Trichoplusia ni	L	CTC	2	0.022684
+MK358044.1	Trichoplusia ni	L	CTG	0	0.000000
+MK358044.1	Trichoplusia ni	L	CTT	37	0.419660
+MK358044.1	Trichoplusia ni	L	TTA	469	5.319471
+MK358044.1	Trichoplusia ni	L	TTG	3	0.034026
+MK358044.1	Trichoplusia ni	M	ATA	262	1.813149
+MK358044.1	Trichoplusia ni	M	ATG	27	0.186851
+MK358044.1	Trichoplusia ni	N	AAC	15	0.117647
+MK358044.1	Trichoplusia ni	N	AAT	240	1.882353
+MK358044.1	Trichoplusia ni	P	CCA	32	1.015873
+MK358044.1	Trichoplusia ni	P	CCC	13	0.412698
+MK358044.1	Trichoplusia ni	P	CCG	2	0.063492
+MK358044.1	Trichoplusia ni	P	CCT	79	2.507937
+MK358044.1	Trichoplusia ni	Q	CAA	62	1.907692
+MK358044.1	Trichoplusia ni	Q	CAG	3	0.092308
+MK358044.1	Trichoplusia ni	R	CGA	30	2.264151
+MK358044.1	Trichoplusia ni	R	CGC	0	0.000000
+MK358044.1	Trichoplusia ni	R	CGG	3	0.226415
+MK358044.1	Trichoplusia ni	R	CGT	20	1.509434
+MK358044.1	Trichoplusia ni	S	AGA	93	2.261398
+MK358044.1	Trichoplusia ni	S	AGC	1	0.024316
+MK358044.1	Trichoplusia ni	S	AGG	0	0.000000
+MK358044.1	Trichoplusia ni	S	AGT	25	0.607903
+MK358044.1	Trichoplusia ni	S	TCA	76	1.848024
+MK358044.1	Trichoplusia ni	S	TCC	9	0.218845
+MK358044.1	Trichoplusia ni	S	TCG	3	0.072948
+MK358044.1	Trichoplusia ni	S	TCT	122	2.966565
+MK358044.1	Trichoplusia ni	T	ACA	59	1.542484
+MK358044.1	Trichoplusia ni	T	ACC	10	0.261438
+MK358044.1	Trichoplusia ni	T	ACG	2	0.052288
+MK358044.1	Trichoplusia ni	T	ACT	82	2.143791
+MK358044.1	Trichoplusia ni	V	GTA	68	1.789474
+MK358044.1	Trichoplusia ni	V	GTC	2	0.052632
+MK358044.1	Trichoplusia ni	V	GTG	1	0.026316
+MK358044.1	Trichoplusia ni	V	GTT	81	2.131579
+MK358044.1	Trichoplusia ni	W	TGA	94	1.938144
+MK358044.1	Trichoplusia ni	W	TGG	3	0.061856
+MK358044.1	Trichoplusia ni	Y	TAC	16	0.164948
+MK358044.1	Trichoplusia ni	Y	TAT	178	1.835052
+MN735183	Spodoptera exigua	A	GCA	40	1.280000
+MN735183	Spodoptera exigua	A	GCC	8	0.256000
+MN735183	Spodoptera exigua	A	GCG	1	0.032000
+MN735183	Spodoptera exigua	A	GCT	76	2.432000
+MN735183	Spodoptera exigua	C	TGC	1	0.064516
+MN735183	Spodoptera exigua	C	TGT	30	1.935484
+MN735183	Spodoptera exigua	D	GAC	9	0.268657
+MN735183	Spodoptera exigua	D	GAT	58	1.731343
+MN735183	Spodoptera exigua	E	GAA	67	1.861111
+MN735183	Spodoptera exigua	E	GAG	5	0.138889
+MN735183	Spodoptera exigua	F	TTC	24	0.130790
+MN735183	Spodoptera exigua	F	TTT	343	1.869210
+MN735183	Spodoptera exigua	G	GGA	115	2.300000
+MN735183	Spodoptera exigua	G	GGC	1	0.020000
+MN735183	Spodoptera exigua	G	GGG	19	0.380000
+MN735183	Spodoptera exigua	G	GGT	65	1.300000
+MN735183	Spodoptera exigua	H	CAC	9	0.268657
+MN735183	Spodoptera exigua	H	CAT	58	1.731343
+MN735183	Spodoptera exigua	I	ATC	22	0.098214
+MN735183	Spodoptera exigua	I	ATT	426	1.901786
+MN735183	Spodoptera exigua	K	AAA	96	1.794393
+MN735183	Spodoptera exigua	K	AAG	11	0.205607
+MN735183	Spodoptera exigua	L	CTA	20	0.218182
+MN735183	Spodoptera exigua	L	CTC	3	0.032727
+MN735183	Spodoptera exigua	L	CTG	0	0.000000
+MN735183	Spodoptera exigua	L	CTT	28	0.305455
+MN735183	Spodoptera exigua	L	TTA	486	5.301818
+MN735183	Spodoptera exigua	L	TTG	13	0.141818
+MN735183	Spodoptera exigua	M	ATA	253	1.807143
+MN735183	Spodoptera exigua	M	ATG	27	0.192857
+MN735183	Spodoptera exigua	N	AAC	15	0.118110
+MN735183	Spodoptera exigua	N	AAT	239	1.881890
+MN735183	Spodoptera exigua	P	CCA	51	1.632000
+MN735183	Spodoptera exigua	P	CCC	9	0.288000
+MN735183	Spodoptera exigua	P	CCG	2	0.064000
+MN735183	Spodoptera exigua	P	CCT	63	2.016000
+MN735183	Spodoptera exigua	Q	CAA	59	1.873016
+MN735183	Spodoptera exigua	Q	CAG	4	0.126984
+MN735183	Spodoptera exigua	R	CGA	31	2.339623
+MN735183	Spodoptera exigua	R	CGC	0	0.000000
+MN735183	Spodoptera exigua	R	CGG	5	0.377358
+MN735183	Spodoptera exigua	R	CGT	17	1.283019
+MN735183	Spodoptera exigua	S	AGA	97	2.373089
+MN735183	Spodoptera exigua	S	AGC	0	0.000000
+MN735183	Spodoptera exigua	S	AGG	0	0.000000
+MN735183	Spodoptera exigua	S	AGT	24	0.587156
+MN735183	Spodoptera exigua	S	TCA	80	1.957187
+MN735183	Spodoptera exigua	S	TCC	6	0.146789
+MN735183	Spodoptera exigua	S	TCG	1	0.024465
+MN735183	Spodoptera exigua	S	TCT	119	2.911315
+MN735183	Spodoptera exigua	T	ACA	67	1.823129
+MN735183	Spodoptera exigua	T	ACC	9	0.244898
+MN735183	Spodoptera exigua	T	ACG	0	0.000000
+MN735183	Spodoptera exigua	T	ACT	71	1.931973
+MN735183	Spodoptera exigua	V	GTA	70	1.783439
+MN735183	Spodoptera exigua	V	GTC	2	0.050955
+MN735183	Spodoptera exigua	V	GTG	2	0.050955
+MN735183	Spodoptera exigua	V	GTT	83	2.114650
+MN735183	Spodoptera exigua	W	TGA	95	1.958763
+MN735183	Spodoptera exigua	W	TGG	2	0.041237
+MN735183	Spodoptera exigua	Y	TAC	11	0.117647
+MN735183	Spodoptera exigua	Y	TAT	176	1.882353
+MN803323	Spodoptera littoralis	A	GCA	37	1.174603
+MN803323	Spodoptera littoralis	A	GCC	5	0.158730
+MN803323	Spodoptera littoralis	A	GCG	4	0.126984
+MN803323	Spodoptera littoralis	A	GCT	80	2.539683
+MN803323	Spodoptera littoralis	C	TGC	3	0.193548
+MN803323	Spodoptera littoralis	C	TGT	28	1.806452
+MN803323	Spodoptera littoralis	D	GAC	6	0.176471
+MN803323	Spodoptera littoralis	D	GAT	62	1.823529
+MN803323	Spodoptera littoralis	E	GAA	64	1.753425
+MN803323	Spodoptera littoralis	E	GAG	9	0.246575
+MN803323	Spodoptera littoralis	F	TTC	34	0.184783
+MN803323	Spodoptera littoralis	F	TTT	334	1.815217
+MN803323	Spodoptera littoralis	G	GGA	105	2.100000
+MN803323	Spodoptera littoralis	G	GGC	0	0.000000
+MN803323	Spodoptera littoralis	G	GGG	31	0.620000
+MN803323	Spodoptera littoralis	G	GGT	64	1.280000
+MN803323	Spodoptera littoralis	H	CAC	9	0.264706
+MN803323	Spodoptera littoralis	H	CAT	59	1.735294
+MN803323	Spodoptera littoralis	I	ATC	18	0.078603
+MN803323	Spodoptera littoralis	I	ATT	440	1.921397
+MN803323	Spodoptera littoralis	K	AAA	97	1.865385
+MN803323	Spodoptera littoralis	K	AAG	7	0.134615
+MN803323	Spodoptera littoralis	L	CTA	12	0.133829
+MN803323	Spodoptera littoralis	L	CTC	3	0.033457
+MN803323	Spodoptera littoralis	L	CTG	0	0.000000
+MN803323	Spodoptera littoralis	L	CTT	21	0.234201
+MN803323	Spodoptera littoralis	L	TTA	483	5.386617
+MN803323	Spodoptera littoralis	L	TTG	19	0.211896
+MN803323	Spodoptera littoralis	M	ATA	268	1.835616
+MN803323	Spodoptera littoralis	M	ATG	24	0.164384
+MN803323	Spodoptera littoralis	N	AAC	16	0.125490
+MN803323	Spodoptera littoralis	N	AAT	239	1.874510
+MN803323	Spodoptera littoralis	P	CCA	43	1.376000
+MN803323	Spodoptera littoralis	P	CCC	9	0.288000
+MN803323	Spodoptera littoralis	P	CCG	1	0.032000
+MN803323	Spodoptera littoralis	P	CCT	72	2.304000
+MN803323	Spodoptera littoralis	Q	CAA	61	1.936508
+MN803323	Spodoptera littoralis	Q	CAG	2	0.063492
+MN803323	Spodoptera littoralis	R	CGA	28	2.113208
+MN803323	Spodoptera littoralis	R	CGC	0	0.000000
+MN803323	Spodoptera littoralis	R	CGG	1	0.075472
+MN803323	Spodoptera littoralis	R	CGT	24	1.811321
+MN803323	Spodoptera littoralis	S	AGA	87	2.134969
+MN803323	Spodoptera littoralis	S	AGC	2	0.049080
+MN803323	Spodoptera littoralis	S	AGG	0	0.000000
+MN803323	Spodoptera littoralis	S	AGT	30	0.736196
+MN803323	Spodoptera littoralis	S	TCA	87	2.134969
+MN803323	Spodoptera littoralis	S	TCC	9	0.220859
+MN803323	Spodoptera littoralis	S	TCG	1	0.024540
+MN803323	Spodoptera littoralis	S	TCT	110	2.699387
+MN803323	Spodoptera littoralis	T	ACA	66	1.771812
+MN803323	Spodoptera littoralis	T	ACC	7	0.187919
+MN803323	Spodoptera littoralis	T	ACG	1	0.026846
+MN803323	Spodoptera littoralis	T	ACT	75	2.013423
+MN803323	Spodoptera littoralis	V	GTA	65	1.884058
+MN803323	Spodoptera littoralis	V	GTC	2	0.057971
+MN803323	Spodoptera littoralis	V	GTG	2	0.057971
+MN803323	Spodoptera littoralis	V	GTT	69	2.000000
+MN803323	Spodoptera littoralis	W	TGA	95	1.958763
+MN803323	Spodoptera littoralis	W	TGG	2	0.041237
+MN803323	Spodoptera littoralis	Y	TAC	8	0.083333
+MN803323	Spodoptera littoralis	Y	TAT	184	1.916667
+MT816470	Spodoptera littoralis	A	GCA	37	1.174603
+MT816470	Spodoptera littoralis	A	GCC	5	0.158730
+MT816470	Spodoptera littoralis	A	GCG	4	0.126984
+MT816470	Spodoptera littoralis	A	GCT	80	2.539683
+MT816470	Spodoptera littoralis	C	TGC	3	0.193548
+MT816470	Spodoptera littoralis	C	TGT	28	1.806452
+MT816470	Spodoptera littoralis	D	GAC	6	0.176471
+MT816470	Spodoptera littoralis	D	GAT	62	1.823529
+MT816470	Spodoptera littoralis	E	GAA	64	1.753425
+MT816470	Spodoptera littoralis	E	GAG	9	0.246575
+MT816470	Spodoptera littoralis	F	TTC	34	0.184783
+MT816470	Spodoptera littoralis	F	TTT	334	1.815217
+MT816470	Spodoptera littoralis	G	GGA	105	2.100000
+MT816470	Spodoptera littoralis	G	GGC	0	0.000000
+MT816470	Spodoptera littoralis	G	GGG	31	0.620000
+MT816470	Spodoptera littoralis	G	GGT	64	1.280000
+MT816470	Spodoptera littoralis	H	CAC	9	0.264706
+MT816470	Spodoptera littoralis	H	CAT	59	1.735294
+MT816470	Spodoptera littoralis	I	ATC	18	0.078603
+MT816470	Spodoptera littoralis	I	ATT	440	1.921397
+MT816470	Spodoptera littoralis	K	AAA	97	1.865385
+MT816470	Spodoptera littoralis	K	AAG	7	0.134615
+MT816470	Spodoptera littoralis	L	CTA	12	0.133829
+MT816470	Spodoptera littoralis	L	CTC	3	0.033457
+MT816470	Spodoptera littoralis	L	CTG	0	0.000000
+MT816470	Spodoptera littoralis	L	CTT	21	0.234201
+MT816470	Spodoptera littoralis	L	TTA	483	5.386617
+MT816470	Spodoptera littoralis	L	TTG	19	0.211896
+MT816470	Spodoptera littoralis	M	ATA	268	1.835616
+MT816470	Spodoptera littoralis	M	ATG	24	0.164384
+MT816470	Spodoptera littoralis	N	AAC	16	0.125490
+MT816470	Spodoptera littoralis	N	AAT	239	1.874510
+MT816470	Spodoptera littoralis	P	CCA	43	1.376000
+MT816470	Spodoptera littoralis	P	CCC	9	0.288000
+MT816470	Spodoptera littoralis	P	CCG	1	0.032000
+MT816470	Spodoptera littoralis	P	CCT	72	2.304000
+MT816470	Spodoptera littoralis	Q	CAA	61	1.936508
+MT816470	Spodoptera littoralis	Q	CAG	2	0.063492
+MT816470	Spodoptera littoralis	R	CGA	28	2.113208
+MT816470	Spodoptera littoralis	R	CGC	0	0.000000
+MT816470	Spodoptera littoralis	R	CGG	1	0.075472
+MT816470	Spodoptera littoralis	R	CGT	24	1.811321
+MT816470	Spodoptera littoralis	S	AGA	87	2.134969
+MT816470	Spodoptera littoralis	S	AGC	2	0.049080
+MT816470	Spodoptera littoralis	S	AGG	0	0.000000
+MT816470	Spodoptera littoralis	S	AGT	30	0.736196
+MT816470	Spodoptera littoralis	S	TCA	87	2.134969
+MT816470	Spodoptera littoralis	S	TCC	9	0.220859
+MT816470	Spodoptera littoralis	S	TCG	1	0.024540
+MT816470	Spodoptera littoralis	S	TCT	110	2.699387
+MT816470	Spodoptera littoralis	T	ACA	66	1.771812
+MT816470	Spodoptera littoralis	T	ACC	7	0.187919
+MT816470	Spodoptera littoralis	T	ACG	1	0.026846
+MT816470	Spodoptera littoralis	T	ACT	75	2.013423
+MT816470	Spodoptera littoralis	V	GTA	65	1.884058
+MT816470	Spodoptera littoralis	V	GTC	2	0.057971
+MT816470	Spodoptera littoralis	V	GTG	2	0.057971
+MT816470	Spodoptera littoralis	V	GTT	69	2.000000
+MT816470	Spodoptera littoralis	W	TGA	95	1.958763
+MT816470	Spodoptera littoralis	W	TGG	2	0.041237
+MT816470	Spodoptera littoralis	Y	TAC	8	0.083333
+MT816470	Spodoptera littoralis	Y	TAT	184	1.916667
+MT906792	Spodoptera exempta	A	GCA	38	1.206349
+MT906792	Spodoptera exempta	A	GCC	4	0.126984
+MT906792	Spodoptera exempta	A	GCG	3	0.095238
+MT906792	Spodoptera exempta	A	GCT	81	2.571429
+MT906792	Spodoptera exempta	C	TGC	1	0.064516
+MT906792	Spodoptera exempta	C	TGT	30	1.935484
+MT906792	Spodoptera exempta	D	GAC	2	0.061538
+MT906792	Spodoptera exempta	D	GAT	63	1.938462
+MT906792	Spodoptera exempta	E	GAA	68	1.863014
+MT906792	Spodoptera exempta	E	GAG	5	0.136986
+MT906792	Spodoptera exempta	F	TTC	21	0.117318
+MT906792	Spodoptera exempta	F	TTT	337	1.882682
+MT906792	Spodoptera exempta	G	GGA	112	2.240000
+MT906792	Spodoptera exempta	G	GGC	1	0.020000
+MT906792	Spodoptera exempta	G	GGG	24	0.480000
+MT906792	Spodoptera exempta	G	GGT	63	1.260000
+MT906792	Spodoptera exempta	H	CAC	6	0.179104
+MT906792	Spodoptera exempta	H	CAT	61	1.820896
+MT906792	Spodoptera exempta	I	ATC	6	0.026549
+MT906792	Spodoptera exempta	I	ATT	446	1.973451
+MT906792	Spodoptera exempta	K	AAA	93	1.805825
+MT906792	Spodoptera exempta	K	AAG	10	0.194175
+MT906792	Spodoptera exempta	L	CTA	13	0.140541
+MT906792	Spodoptera exempta	L	CTC	2	0.021622
+MT906792	Spodoptera exempta	L	CTG	0	0.000000
+MT906792	Spodoptera exempta	L	CTT	28	0.302703
+MT906792	Spodoptera exempta	L	TTA	506	5.470270
+MT906792	Spodoptera exempta	L	TTG	6	0.064865
+MT906792	Spodoptera exempta	M	ATA	266	1.853659
+MT906792	Spodoptera exempta	M	ATG	21	0.146341
+MT906792	Spodoptera exempta	N	AAC	15	0.118110
+MT906792	Spodoptera exempta	N	AAT	239	1.881890
+MT906792	Spodoptera exempta	P	CCA	42	1.354839
+MT906792	Spodoptera exempta	P	CCC	10	0.322581
+MT906792	Spodoptera exempta	P	CCG	1	0.032258
+MT906792	Spodoptera exempta	P	CCT	71	2.290323
+MT906792	Spodoptera exempta	Q	CAA	63	2.000000
+MT906792	Spodoptera exempta	Q	CAG	0	0.000000
+MT906792	Spodoptera exempta	R	CGA	33	2.490566
+MT906792	Spodoptera exempta	R	CGC	1	0.075472
+MT906792	Spodoptera exempta	R	CGG	0	0.000000
+MT906792	Spodoptera exempta	R	CGT	19	1.433962
+MT906792	Spodoptera exempta	S	AGA	91	2.260870
+MT906792	Spodoptera exempta	S	AGC	0	0.000000
+MT906792	Spodoptera exempta	S	AGG	0	0.000000
+MT906792	Spodoptera exempta	S	AGT	26	0.645963
+MT906792	Spodoptera exempta	S	TCA	83	2.062112
+MT906792	Spodoptera exempta	S	TCC	8	0.198758
+MT906792	Spodoptera exempta	S	TCG	0	0.000000
+MT906792	Spodoptera exempta	S	TCT	114	2.832298
+MT906792	Spodoptera exempta	T	ACA	67	1.798658
+MT906792	Spodoptera exempta	T	ACC	4	0.107383
+MT906792	Spodoptera exempta	T	ACG	0	0.000000
+MT906792	Spodoptera exempta	T	ACT	78	2.093960
+MT906792	Spodoptera exempta	V	GTA	62	1.653333
+MT906792	Spodoptera exempta	V	GTC	1	0.026667
+MT906792	Spodoptera exempta	V	GTG	3	0.080000
+MT906792	Spodoptera exempta	V	GTT	84	2.240000
+MT906792	Spodoptera exempta	W	TGA	95	1.958763
+MT906792	Spodoptera exempta	W	TGG	2	0.041237
+MT906792	Spodoptera exempta	Y	TAC	4	0.041667
+MT906792	Spodoptera exempta	Y	TAT	188	1.958333
+MZ397984.1	Agrotis ipsilon	A	GCA	43	1.323077
+MZ397984.1	Agrotis ipsilon	A	GCC	3	0.092308
+MZ397984.1	Agrotis ipsilon	A	GCG	1	0.030769
+MZ397984.1	Agrotis ipsilon	A	GCT	83	2.553846
+MZ397984.1	Agrotis ipsilon	C	TGC	0	0.000000
+MZ397984.1	Agrotis ipsilon	C	TGT	33	2.000000
+MZ397984.1	Agrotis ipsilon	D	GAC	7	0.212121
+MZ397984.1	Agrotis ipsilon	D	GAT	59	1.787879
+MZ397984.1	Agrotis ipsilon	E	GAA	68	1.813333
+MZ397984.1	Agrotis ipsilon	E	GAG	7	0.186667
+MZ397984.1	Agrotis ipsilon	F	TTC	28	0.152174
+MZ397984.1	Agrotis ipsilon	F	TTT	340	1.847826
+MZ397984.1	Agrotis ipsilon	G	GGA	128	2.547264
+MZ397984.1	Agrotis ipsilon	G	GGC	0	0.000000
+MZ397984.1	Agrotis ipsilon	G	GGG	20	0.398010
+MZ397984.1	Agrotis ipsilon	G	GGT	53	1.054726
+MZ397984.1	Agrotis ipsilon	H	CAC	7	0.205882
+MZ397984.1	Agrotis ipsilon	H	CAT	61	1.794118
+MZ397984.1	Agrotis ipsilon	I	ATC	21	0.089552
+MZ397984.1	Agrotis ipsilon	I	ATT	448	1.910448
+MZ397984.1	Agrotis ipsilon	K	AAA	92	1.786408
+MZ397984.1	Agrotis ipsilon	K	AAG	11	0.213592
+MZ397984.1	Agrotis ipsilon	L	CTA	17	0.187500
+MZ397984.1	Agrotis ipsilon	L	CTC	0	0.000000
+MZ397984.1	Agrotis ipsilon	L	CTG	0	0.000000
+MZ397984.1	Agrotis ipsilon	L	CTT	33	0.363971
+MZ397984.1	Agrotis ipsilon	L	TTA	485	5.349265
+MZ397984.1	Agrotis ipsilon	L	TTG	9	0.099265
+MZ397984.1	Agrotis ipsilon	M	ATA	258	1.890110
+MZ397984.1	Agrotis ipsilon	M	ATG	15	0.109890
+MZ397984.1	Agrotis ipsilon	N	AAC	13	0.103175
+MZ397984.1	Agrotis ipsilon	N	AAT	239	1.896825
+MZ397984.1	Agrotis ipsilon	P	CCA	47	1.504000
+MZ397984.1	Agrotis ipsilon	P	CCC	7	0.224000
+MZ397984.1	Agrotis ipsilon	P	CCG	2	0.064000
+MZ397984.1	Agrotis ipsilon	P	CCT	69	2.208000
+MZ397984.1	Agrotis ipsilon	Q	CAA	61	1.967742
+MZ397984.1	Agrotis ipsilon	Q	CAG	1	0.032258
+MZ397984.1	Agrotis ipsilon	R	CGA	28	2.113208
+MZ397984.1	Agrotis ipsilon	R	CGC	1	0.075472
+MZ397984.1	Agrotis ipsilon	R	CGG	2	0.150943
+MZ397984.1	Agrotis ipsilon	R	CGT	22	1.660377
+MZ397984.1	Agrotis ipsilon	S	AGA	98	2.412308
+MZ397984.1	Agrotis ipsilon	S	AGC	1	0.024615
+MZ397984.1	Agrotis ipsilon	S	AGG	0	0.000000
+MZ397984.1	Agrotis ipsilon	S	AGT	24	0.590769
+MZ397984.1	Agrotis ipsilon	S	TCA	78	1.920000
+MZ397984.1	Agrotis ipsilon	S	TCC	2	0.049231
+MZ397984.1	Agrotis ipsilon	S	TCG	0	0.000000
+MZ397984.1	Agrotis ipsilon	S	TCT	122	3.003077
+MZ397984.1	Agrotis ipsilon	T	ACA	66	1.783784
+MZ397984.1	Agrotis ipsilon	T	ACC	7	0.189189
+MZ397984.1	Agrotis ipsilon	T	ACG	0	0.000000
+MZ397984.1	Agrotis ipsilon	T	ACT	75	2.027027
+MZ397984.1	Agrotis ipsilon	V	GTA	70	1.904762
+MZ397984.1	Agrotis ipsilon	V	GTC	3	0.081633
+MZ397984.1	Agrotis ipsilon	V	GTG	1	0.027211
+MZ397984.1	Agrotis ipsilon	V	GTT	73	1.986395
+MZ397984.1	Agrotis ipsilon	W	TGA	95	1.979167
+MZ397984.1	Agrotis ipsilon	W	TGG	1	0.020833
+MZ397984.1	Agrotis ipsilon	Y	TAC	9	0.095745
+MZ397984.1	Agrotis ipsilon	Y	TAT	179	1.904255
+MZ603870	Spodoptera litura	A	GCA	40	1.259843
+MZ603870	Spodoptera litura	A	GCC	2	0.062992
+MZ603870	Spodoptera litura	A	GCG	4	0.125984
+MZ603870	Spodoptera litura	A	GCT	81	2.551181
+MZ603870	Spodoptera litura	C	TGC	2	0.129032
+MZ603870	Spodoptera litura	C	TGT	29	1.870968
+MZ603870	Spodoptera litura	D	GAC	4	0.119403
+MZ603870	Spodoptera litura	D	GAT	63	1.880597
+MZ603870	Spodoptera litura	E	GAA	65	1.780822
+MZ603870	Spodoptera litura	E	GAG	8	0.219178
+MZ603870	Spodoptera litura	F	TTC	33	0.179837
+MZ603870	Spodoptera litura	F	TTT	334	1.820163
+MZ603870	Spodoptera litura	G	GGA	116	2.308458
+MZ603870	Spodoptera litura	G	GGC	1	0.019900
+MZ603870	Spodoptera litura	G	GGG	22	0.437811
+MZ603870	Spodoptera litura	G	GGT	62	1.233831
+MZ603870	Spodoptera litura	H	CAC	9	0.268657
+MZ603870	Spodoptera litura	H	CAT	58	1.731343
+MZ603870	Spodoptera litura	I	ATC	23	0.101099
+MZ603870	Spodoptera litura	I	ATT	432	1.898901
+MZ603870	Spodoptera litura	K	AAA	95	1.826923
+MZ603870	Spodoptera litura	K	AAG	9	0.173077
+MZ603870	Spodoptera litura	L	CTA	20	0.220994
+MZ603870	Spodoptera litura	L	CTC	2	0.022099
+MZ603870	Spodoptera litura	L	CTG	1	0.011050
+MZ603870	Spodoptera litura	L	CTT	21	0.232044
+MZ603870	Spodoptera litura	L	TTA	484	5.348066
+MZ603870	Spodoptera litura	L	TTG	15	0.165746
+MZ603870	Spodoptera litura	M	ATA	271	1.862543
+MZ603870	Spodoptera litura	M	ATG	20	0.137457
+MZ603870	Spodoptera litura	N	AAC	21	0.164706
+MZ603870	Spodoptera litura	N	AAT	234	1.835294
+MZ603870	Spodoptera litura	P	CCA	39	1.248000
+MZ603870	Spodoptera litura	P	CCC	14	0.448000
+MZ603870	Spodoptera litura	P	CCG	2	0.064000
+MZ603870	Spodoptera litura	P	CCT	70	2.240000
+MZ603870	Spodoptera litura	Q	CAA	62	1.968254
+MZ603870	Spodoptera litura	Q	CAG	1	0.031746
+MZ603870	Spodoptera litura	R	CGA	27	2.037736
+MZ603870	Spodoptera litura	R	CGC	0	0.000000
+MZ603870	Spodoptera litura	R	CGG	0	0.000000
+MZ603870	Spodoptera litura	R	CGT	26	1.962264
+MZ603870	Spodoptera litura	S	AGA	88	2.179567
+MZ603870	Spodoptera litura	S	AGC	2	0.049536
+MZ603870	Spodoptera litura	S	AGG	0	0.000000
+MZ603870	Spodoptera litura	S	AGT	27	0.668731
+MZ603870	Spodoptera litura	S	TCA	90	2.229102
+MZ603870	Spodoptera litura	S	TCC	8	0.198142
+MZ603870	Spodoptera litura	S	TCG	1	0.024768
+MZ603870	Spodoptera litura	S	TCT	107	2.650155
+MZ603870	Spodoptera litura	T	ACA	66	1.808219
+MZ603870	Spodoptera litura	T	ACC	7	0.191781
+MZ603870	Spodoptera litura	T	ACG	0	0.000000
+MZ603870	Spodoptera litura	T	ACT	73	2.000000
+MZ603870	Spodoptera litura	V	GTA	65	1.843972
+MZ603870	Spodoptera litura	V	GTC	1	0.028369
+MZ603870	Spodoptera litura	V	GTG	3	0.085106
+MZ603870	Spodoptera litura	V	GTT	72	2.042553
+MZ603870	Spodoptera litura	W	TGA	96	1.979381
+MZ603870	Spodoptera litura	W	TGG	1	0.020619
+MZ603870	Spodoptera litura	Y	TAC	8	0.082051
+MZ603870	Spodoptera litura	Y	TAT	187	1.917949
+MZ618263	Spodoptera litura	A	GCA	40	1.259843
+MZ618263	Spodoptera litura	A	GCC	2	0.062992
+MZ618263	Spodoptera litura	A	GCG	4	0.125984
+MZ618263	Spodoptera litura	A	GCT	81	2.551181
+MZ618263	Spodoptera litura	C	TGC	2	0.129032
+MZ618263	Spodoptera litura	C	TGT	29	1.870968
+MZ618263	Spodoptera litura	D	GAC	4	0.119403
+MZ618263	Spodoptera litura	D	GAT	63	1.880597
+MZ618263	Spodoptera litura	E	GAA	65	1.780822
+MZ618263	Spodoptera litura	E	GAG	8	0.219178
+MZ618263	Spodoptera litura	F	TTC	33	0.179348
+MZ618263	Spodoptera litura	F	TTT	335	1.820652
+MZ618263	Spodoptera litura	G	GGA	116	2.308458
+MZ618263	Spodoptera litura	G	GGC	1	0.019900
+MZ618263	Spodoptera litura	G	GGG	22	0.437811
+MZ618263	Spodoptera litura	G	GGT	62	1.233831
+MZ618263	Spodoptera litura	H	CAC	8	0.238806
+MZ618263	Spodoptera litura	H	CAT	59	1.761194
+MZ618263	Spodoptera litura	I	ATC	23	0.101099
+MZ618263	Spodoptera litura	I	ATT	432	1.898901
+MZ618263	Spodoptera litura	K	AAA	95	1.826923
+MZ618263	Spodoptera litura	K	AAG	9	0.173077
+MZ618263	Spodoptera litura	L	CTA	20	0.220994
+MZ618263	Spodoptera litura	L	CTC	2	0.022099
+MZ618263	Spodoptera litura	L	CTG	1	0.011050
+MZ618263	Spodoptera litura	L	CTT	21	0.232044
+MZ618263	Spodoptera litura	L	TTA	484	5.348066
+MZ618263	Spodoptera litura	L	TTG	15	0.165746
+MZ618263	Spodoptera litura	M	ATA	272	1.869416
+MZ618263	Spodoptera litura	M	ATG	19	0.130584
+MZ618263	Spodoptera litura	N	AAC	21	0.164706
+MZ618263	Spodoptera litura	N	AAT	234	1.835294
+MZ618263	Spodoptera litura	P	CCA	39	1.248000
+MZ618263	Spodoptera litura	P	CCC	14	0.448000
+MZ618263	Spodoptera litura	P	CCG	2	0.064000
+MZ618263	Spodoptera litura	P	CCT	70	2.240000
+MZ618263	Spodoptera litura	Q	CAA	62	1.968254
+MZ618263	Spodoptera litura	Q	CAG	1	0.031746
+MZ618263	Spodoptera litura	R	CGA	27	2.037736
+MZ618263	Spodoptera litura	R	CGC	0	0.000000
+MZ618263	Spodoptera litura	R	CGG	0	0.000000
+MZ618263	Spodoptera litura	R	CGT	26	1.962264
+MZ618263	Spodoptera litura	S	AGA	88	2.186335
+MZ618263	Spodoptera litura	S	AGC	2	0.049689
+MZ618263	Spodoptera litura	S	AGG	0	0.000000
+MZ618263	Spodoptera litura	S	AGT	27	0.670807
+MZ618263	Spodoptera litura	S	TCA	90	2.236025
+MZ618263	Spodoptera litura	S	TCC	8	0.198758
+MZ618263	Spodoptera litura	S	TCG	1	0.024845
+MZ618263	Spodoptera litura	S	TCT	106	2.633540
+MZ618263	Spodoptera litura	T	ACA	66	1.808219
+MZ618263	Spodoptera litura	T	ACC	7	0.191781
+MZ618263	Spodoptera litura	T	ACG	0	0.000000
+MZ618263	Spodoptera litura	T	ACT	73	2.000000
+MZ618263	Spodoptera litura	V	GTA	65	1.843972
+MZ618263	Spodoptera litura	V	GTC	1	0.028369
+MZ618263	Spodoptera litura	V	GTG	3	0.085106
+MZ618263	Spodoptera litura	V	GTT	72	2.042553
+MZ618263	Spodoptera litura	W	TGA	96	1.979381
+MZ618263	Spodoptera litura	W	TGG	1	0.020619
+MZ618263	Spodoptera litura	Y	TAC	8	0.082051
+MZ618263	Spodoptera litura	Y	TAT	187	1.917949
+NC_014668.1	Helicoverpa armigera	A	GCA	42	1.377049
+NC_014668.1	Helicoverpa armigera	A	GCC	6	0.196721
+NC_014668.1	Helicoverpa armigera	A	GCG	1	0.032787
+NC_014668.1	Helicoverpa armigera	A	GCT	73	2.393443
+NC_014668.1	Helicoverpa armigera	C	TGC	2	0.129032
+NC_014668.1	Helicoverpa armigera	C	TGT	29	1.870968
+NC_014668.1	Helicoverpa armigera	D	GAC	7	0.212121
+NC_014668.1	Helicoverpa armigera	D	GAT	59	1.787879
+NC_014668.1	Helicoverpa armigera	E	GAA	67	1.861111
+NC_014668.1	Helicoverpa armigera	E	GAG	5	0.138889
+NC_014668.1	Helicoverpa armigera	F	TTC	29	0.158038
+NC_014668.1	Helicoverpa armigera	F	TTT	338	1.841962
+NC_014668.1	Helicoverpa armigera	G	GGA	119	2.344828
+NC_014668.1	Helicoverpa armigera	G	GGC	3	0.059113
+NC_014668.1	Helicoverpa armigera	G	GGG	18	0.354680
+NC_014668.1	Helicoverpa armigera	G	GGT	63	1.241379
+NC_014668.1	Helicoverpa armigera	H	CAC	7	0.212121
+NC_014668.1	Helicoverpa armigera	H	CAT	59	1.787879
+NC_014668.1	Helicoverpa armigera	I	ATC	26	0.112069
+NC_014668.1	Helicoverpa armigera	I	ATT	438	1.887931
+NC_014668.1	Helicoverpa armigera	K	AAA	98	1.831776
+NC_014668.1	Helicoverpa armigera	K	AAG	9	0.168224
+NC_014668.1	Helicoverpa armigera	L	CTA	17	0.191370
+NC_014668.1	Helicoverpa armigera	L	CTC	1	0.011257
+NC_014668.1	Helicoverpa armigera	L	CTG	0	0.000000
+NC_014668.1	Helicoverpa armigera	L	CTT	29	0.326454
+NC_014668.1	Helicoverpa armigera	L	TTA	476	5.358349
+NC_014668.1	Helicoverpa armigera	L	TTG	10	0.112570
+NC_014668.1	Helicoverpa armigera	M	ATA	263	1.892086
+NC_014668.1	Helicoverpa armigera	M	ATG	15	0.107914
+NC_014668.1	Helicoverpa armigera	N	AAC	23	0.176923
+NC_014668.1	Helicoverpa armigera	N	AAT	237	1.823077
+NC_014668.1	Helicoverpa armigera	P	CCA	43	1.365079
+NC_014668.1	Helicoverpa armigera	P	CCC	17	0.539683
+NC_014668.1	Helicoverpa armigera	P	CCG	1	0.031746
+NC_014668.1	Helicoverpa armigera	P	CCT	65	2.063492
+NC_014668.1	Helicoverpa armigera	Q	CAA	62	1.937500
+NC_014668.1	Helicoverpa armigera	Q	CAG	2	0.062500
+NC_014668.1	Helicoverpa armigera	R	CGA	38	2.867925
+NC_014668.1	Helicoverpa armigera	R	CGC	0	0.000000
+NC_014668.1	Helicoverpa armigera	R	CGG	2	0.150943
+NC_014668.1	Helicoverpa armigera	R	CGT	13	0.981132
+NC_014668.1	Helicoverpa armigera	S	AGA	85	2.165605
+NC_014668.1	Helicoverpa armigera	S	AGC	2	0.050955
+NC_014668.1	Helicoverpa armigera	S	AGG	0	0.000000
+NC_014668.1	Helicoverpa armigera	S	AGT	31	0.789809
+NC_014668.1	Helicoverpa armigera	S	TCA	66	1.681529
+NC_014668.1	Helicoverpa armigera	S	TCC	7	0.178344
+NC_014668.1	Helicoverpa armigera	S	TCG	0	0.000000
+NC_014668.1	Helicoverpa armigera	S	TCT	123	3.133758
+NC_014668.1	Helicoverpa armigera	T	ACA	64	1.610063
+NC_014668.1	Helicoverpa armigera	T	ACC	9	0.226415
+NC_014668.1	Helicoverpa armigera	T	ACG	2	0.050314
+NC_014668.1	Helicoverpa armigera	T	ACT	84	2.113208
+NC_014668.1	Helicoverpa armigera	V	GTA	75	1.960784
+NC_014668.1	Helicoverpa armigera	V	GTC	2	0.052288
+NC_014668.1	Helicoverpa armigera	V	GTG	4	0.104575
+NC_014668.1	Helicoverpa armigera	V	GTT	72	1.882353
+NC_014668.1	Helicoverpa armigera	W	TGA	95	1.958763
+NC_014668.1	Helicoverpa armigera	W	TGG	2	0.041237
+NC_014668.1	Helicoverpa armigera	Y	TAC	15	0.158730
+NC_014668.1	Helicoverpa armigera	Y	TAT	174	1.841270
+NC_022676	Spodoptera litura	A	GCA	40	1.269841
+NC_022676	Spodoptera litura	A	GCC	2	0.063492
+NC_022676	Spodoptera litura	A	GCG	4	0.126984
+NC_022676	Spodoptera litura	A	GCT	80	2.539683
+NC_022676	Spodoptera litura	C	TGC	2	0.133333
+NC_022676	Spodoptera litura	C	TGT	28	1.866667
+NC_022676	Spodoptera litura	D	GAC	4	0.119403
+NC_022676	Spodoptera litura	D	GAT	63	1.880597
+NC_022676	Spodoptera litura	E	GAA	63	1.774648
+NC_022676	Spodoptera litura	E	GAG	8	0.225352
+NC_022676	Spodoptera litura	F	TTC	33	0.179837
+NC_022676	Spodoptera litura	F	TTT	334	1.820163
+NC_022676	Spodoptera litura	G	GGA	117	2.316832
+NC_022676	Spodoptera litura	G	GGC	1	0.019802
+NC_022676	Spodoptera litura	G	GGG	23	0.455446
+NC_022676	Spodoptera litura	G	GGT	61	1.207921
+NC_022676	Spodoptera litura	H	CAC	9	0.276923
+NC_022676	Spodoptera litura	H	CAT	56	1.723077
+NC_022676	Spodoptera litura	I	ATC	23	0.101545
+NC_022676	Spodoptera litura	I	ATT	430	1.898455
+NC_022676	Spodoptera litura	K	AAA	96	1.828571
+NC_022676	Spodoptera litura	K	AAG	9	0.171429
+NC_022676	Spodoptera litura	L	CTA	21	0.232902
+NC_022676	Spodoptera litura	L	CTC	2	0.022181
+NC_022676	Spodoptera litura	L	CTG	1	0.011091
+NC_022676	Spodoptera litura	L	CTT	21	0.232902
+NC_022676	Spodoptera litura	L	TTA	482	5.345656
+NC_022676	Spodoptera litura	L	TTG	14	0.155268
+NC_022676	Spodoptera litura	M	ATA	269	1.868056
+NC_022676	Spodoptera litura	M	ATG	19	0.131944
+NC_022676	Spodoptera litura	N	AAC	20	0.158103
+NC_022676	Spodoptera litura	N	AAT	233	1.841897
+NC_022676	Spodoptera litura	P	CCA	37	1.203252
+NC_022676	Spodoptera litura	P	CCC	16	0.520325
+NC_022676	Spodoptera litura	P	CCG	2	0.065041
+NC_022676	Spodoptera litura	P	CCT	68	2.211382
+NC_022676	Spodoptera litura	Q	CAA	62	1.937500
+NC_022676	Spodoptera litura	Q	CAG	2	0.062500
+NC_022676	Spodoptera litura	R	CGA	27	2.037736
+NC_022676	Spodoptera litura	R	CGC	0	0.000000
+NC_022676	Spodoptera litura	R	CGG	0	0.000000
+NC_022676	Spodoptera litura	R	CGT	26	1.962264
+NC_022676	Spodoptera litura	S	AGA	87	2.175000
+NC_022676	Spodoptera litura	S	AGC	2	0.050000
+NC_022676	Spodoptera litura	S	AGG	0	0.000000
+NC_022676	Spodoptera litura	S	AGT	26	0.650000
+NC_022676	Spodoptera litura	S	TCA	89	2.225000
+NC_022676	Spodoptera litura	S	TCC	8	0.200000
+NC_022676	Spodoptera litura	S	TCG	1	0.025000
+NC_022676	Spodoptera litura	S	TCT	107	2.675000
+NC_022676	Spodoptera litura	T	ACA	66	1.820690
+NC_022676	Spodoptera litura	T	ACC	6	0.165517
+NC_022676	Spodoptera litura	T	ACG	0	0.000000
+NC_022676	Spodoptera litura	T	ACT	73	2.013793
+NC_022676	Spodoptera litura	V	GTA	65	1.843972
+NC_022676	Spodoptera litura	V	GTC	1	0.028369
+NC_022676	Spodoptera litura	V	GTG	3	0.085106
+NC_022676	Spodoptera litura	V	GTT	72	2.042553
+NC_022676	Spodoptera litura	W	TGA	95	1.958763
+NC_022676	Spodoptera litura	W	TGG	2	0.041237
+NC_022676	Spodoptera litura	Y	TAC	7	0.072539
+NC_022676	Spodoptera litura	Y	TAT	186	1.927461
+NC_036057.1	Athetis lepigone	A	GCA	45	1.406250
+NC_036057.1	Athetis lepigone	A	GCC	5	0.156250
+NC_036057.1	Athetis lepigone	A	GCG	2	0.062500
+NC_036057.1	Athetis lepigone	A	GCT	76	2.375000
+NC_036057.1	Athetis lepigone	C	TGC	2	0.121212
+NC_036057.1	Athetis lepigone	C	TGT	31	1.878788
+NC_036057.1	Athetis lepigone	D	GAC	3	0.092308
+NC_036057.1	Athetis lepigone	D	GAT	62	1.907692
+NC_036057.1	Athetis lepigone	E	GAA	67	1.786667
+NC_036057.1	Athetis lepigone	E	GAG	8	0.213333
+NC_036057.1	Athetis lepigone	F	TTC	27	0.145161
+NC_036057.1	Athetis lepigone	F	TTT	345	1.854839
+NC_036057.1	Athetis lepigone	G	GGA	122	2.440000
+NC_036057.1	Athetis lepigone	G	GGC	0	0.000000
+NC_036057.1	Athetis lepigone	G	GGG	25	0.500000
+NC_036057.1	Athetis lepigone	G	GGT	53	1.060000
+NC_036057.1	Athetis lepigone	H	CAC	8	0.238806
+NC_036057.1	Athetis lepigone	H	CAT	59	1.761194
+NC_036057.1	Athetis lepigone	I	ATC	13	0.054507
+NC_036057.1	Athetis lepigone	I	ATT	464	1.945493
+NC_036057.1	Athetis lepigone	K	AAA	100	1.923077
+NC_036057.1	Athetis lepigone	K	AAG	4	0.076923
+NC_036057.1	Athetis lepigone	L	CTA	15	0.164534
+NC_036057.1	Athetis lepigone	L	CTC	0	0.000000
+NC_036057.1	Athetis lepigone	L	CTG	0	0.000000
+NC_036057.1	Athetis lepigone	L	CTT	36	0.394881
+NC_036057.1	Athetis lepigone	L	TTA	476	5.221207
+NC_036057.1	Athetis lepigone	L	TTG	20	0.219378
+NC_036057.1	Athetis lepigone	M	ATA	251	1.852399
+NC_036057.1	Athetis lepigone	M	ATG	20	0.147601
+NC_036057.1	Athetis lepigone	N	AAC	13	0.102362
+NC_036057.1	Athetis lepigone	N	AAT	241	1.897638
+NC_036057.1	Athetis lepigone	P	CCA	36	1.152000
+NC_036057.1	Athetis lepigone	P	CCC	8	0.256000
+NC_036057.1	Athetis lepigone	P	CCG	0	0.000000
+NC_036057.1	Athetis lepigone	P	CCT	81	2.592000
+NC_036057.1	Athetis lepigone	Q	CAA	62	2.000000
+NC_036057.1	Athetis lepigone	Q	CAG	0	0.000000
+NC_036057.1	Athetis lepigone	R	CGA	40	3.018868
+NC_036057.1	Athetis lepigone	R	CGC	0	0.000000
+NC_036057.1	Athetis lepigone	R	CGG	0	0.000000
+NC_036057.1	Athetis lepigone	R	CGT	13	0.981132
+NC_036057.1	Athetis lepigone	S	AGA	100	2.461538
+NC_036057.1	Athetis lepigone	S	AGC	2	0.049231
+NC_036057.1	Athetis lepigone	S	AGG	0	0.000000
+NC_036057.1	Athetis lepigone	S	AGT	20	0.492308
+NC_036057.1	Athetis lepigone	S	TCA	76	1.870769
+NC_036057.1	Athetis lepigone	S	TCC	8	0.196923
+NC_036057.1	Athetis lepigone	S	TCG	1	0.024615
+NC_036057.1	Athetis lepigone	S	TCT	118	2.904615
+NC_036057.1	Athetis lepigone	T	ACA	53	1.442177
+NC_036057.1	Athetis lepigone	T	ACC	5	0.136054
+NC_036057.1	Athetis lepigone	T	ACG	3	0.081633
+NC_036057.1	Athetis lepigone	T	ACT	86	2.340136
+NC_036057.1	Athetis lepigone	V	GTA	68	1.929078
+NC_036057.1	Athetis lepigone	V	GTC	1	0.028369
+NC_036057.1	Athetis lepigone	V	GTG	3	0.085106
+NC_036057.1	Athetis lepigone	V	GTT	69	1.957447
+NC_036057.1	Athetis lepigone	W	TGA	93	1.937500
+NC_036057.1	Athetis lepigone	W	TGG	3	0.062500
+NC_036057.1	Athetis lepigone	Y	TAC	11	0.117647
+NC_036057.1	Athetis lepigone	Y	TAT	176	1.882353
+NC_045936.1	Trichoplusia ni	A	GCA	35	1.111111
+NC_045936.1	Trichoplusia ni	A	GCC	10	0.317460
+NC_045936.1	Trichoplusia ni	A	GCG	4	0.126984
+NC_045936.1	Trichoplusia ni	A	GCT	77	2.444444
+NC_045936.1	Trichoplusia ni	C	TGC	5	0.333333
+NC_045936.1	Trichoplusia ni	C	TGT	25	1.666667
+NC_045936.1	Trichoplusia ni	D	GAC	7	0.212121
+NC_045936.1	Trichoplusia ni	D	GAT	59	1.787879
+NC_045936.1	Trichoplusia ni	E	GAA	67	1.835616
+NC_045936.1	Trichoplusia ni	E	GAG	6	0.164384
+NC_045936.1	Trichoplusia ni	F	TTC	21	0.115068
+NC_045936.1	Trichoplusia ni	F	TTT	344	1.884932
+NC_045936.1	Trichoplusia ni	G	GGA	116	2.320000
+NC_045936.1	Trichoplusia ni	G	GGC	5	0.100000
+NC_045936.1	Trichoplusia ni	G	GGG	36	0.720000
+NC_045936.1	Trichoplusia ni	G	GGT	43	0.860000
+NC_045936.1	Trichoplusia ni	H	CAC	8	0.238806
+NC_045936.1	Trichoplusia ni	H	CAT	59	1.761194
+NC_045936.1	Trichoplusia ni	I	ATC	19	0.083151
+NC_045936.1	Trichoplusia ni	I	ATT	438	1.916849
+NC_045936.1	Trichoplusia ni	K	AAA	96	1.900990
+NC_045936.1	Trichoplusia ni	K	AAG	5	0.099010
+NC_045936.1	Trichoplusia ni	L	CTA	18	0.204159
+NC_045936.1	Trichoplusia ni	L	CTC	2	0.022684
+NC_045936.1	Trichoplusia ni	L	CTG	0	0.000000
+NC_045936.1	Trichoplusia ni	L	CTT	37	0.419660
+NC_045936.1	Trichoplusia ni	L	TTA	469	5.319471
+NC_045936.1	Trichoplusia ni	L	TTG	3	0.034026
+NC_045936.1	Trichoplusia ni	M	ATA	262	1.813149
+NC_045936.1	Trichoplusia ni	M	ATG	27	0.186851
+NC_045936.1	Trichoplusia ni	N	AAC	15	0.117647
+NC_045936.1	Trichoplusia ni	N	AAT	240	1.882353
+NC_045936.1	Trichoplusia ni	P	CCA	32	1.015873
+NC_045936.1	Trichoplusia ni	P	CCC	13	0.412698
+NC_045936.1	Trichoplusia ni	P	CCG	2	0.063492
+NC_045936.1	Trichoplusia ni	P	CCT	79	2.507937
+NC_045936.1	Trichoplusia ni	Q	CAA	62	1.907692
+NC_045936.1	Trichoplusia ni	Q	CAG	3	0.092308
+NC_045936.1	Trichoplusia ni	R	CGA	30	2.264151
+NC_045936.1	Trichoplusia ni	R	CGC	0	0.000000
+NC_045936.1	Trichoplusia ni	R	CGG	3	0.226415
+NC_045936.1	Trichoplusia ni	R	CGT	20	1.509434
+NC_045936.1	Trichoplusia ni	S	AGA	93	2.261398
+NC_045936.1	Trichoplusia ni	S	AGC	1	0.024316
+NC_045936.1	Trichoplusia ni	S	AGG	0	0.000000
+NC_045936.1	Trichoplusia ni	S	AGT	25	0.607903
+NC_045936.1	Trichoplusia ni	S	TCA	76	1.848024
+NC_045936.1	Trichoplusia ni	S	TCC	9	0.218845
+NC_045936.1	Trichoplusia ni	S	TCG	3	0.072948
+NC_045936.1	Trichoplusia ni	S	TCT	122	2.966565
+NC_045936.1	Trichoplusia ni	T	ACA	59	1.542484
+NC_045936.1	Trichoplusia ni	T	ACC	10	0.261438
+NC_045936.1	Trichoplusia ni	T	ACG	2	0.052288
+NC_045936.1	Trichoplusia ni	T	ACT	82	2.143791
+NC_045936.1	Trichoplusia ni	V	GTA	68	1.789474
+NC_045936.1	Trichoplusia ni	V	GTC	2	0.052632
+NC_045936.1	Trichoplusia ni	V	GTG	1	0.026316
+NC_045936.1	Trichoplusia ni	V	GTT	81	2.131579
+NC_045936.1	Trichoplusia ni	W	TGA	94	1.938144
+NC_045936.1	Trichoplusia ni	W	TGG	3	0.061856
+NC_045936.1	Trichoplusia ni	Y	TAC	16	0.164948
+NC_045936.1	Trichoplusia ni	Y	TAT	178	1.835052
+OK053108	Spodoptera depravata	A	GCA	40	1.290323
+OK053108	Spodoptera depravata	A	GCC	1	0.032258
+OK053108	Spodoptera depravata	A	GCG	1	0.032258
+OK053108	Spodoptera depravata	A	GCT	82	2.645161
+OK053108	Spodoptera depravata	C	TGC	2	0.129032
+OK053108	Spodoptera depravata	C	TGT	29	1.870968
+OK053108	Spodoptera depravata	D	GAC	6	0.181818
+OK053108	Spodoptera depravata	D	GAT	60	1.818182
+OK053108	Spodoptera depravata	E	GAA	66	1.808219
+OK053108	Spodoptera depravata	E	GAG	7	0.191781
+OK053108	Spodoptera depravata	F	TTC	18	0.100840
+OK053108	Spodoptera depravata	F	TTT	339	1.899160
+OK053108	Spodoptera depravata	G	GGA	106	2.141414
+OK053108	Spodoptera depravata	G	GGC	2	0.040404
+OK053108	Spodoptera depravata	G	GGG	31	0.626263
+OK053108	Spodoptera depravata	G	GGT	59	1.191919
+OK053108	Spodoptera depravata	H	CAC	2	0.058824
+OK053108	Spodoptera depravata	H	CAT	66	1.941176
+OK053108	Spodoptera depravata	I	ATC	12	0.052061
+OK053108	Spodoptera depravata	I	ATT	449	1.947939
+OK053108	Spodoptera depravata	K	AAA	97	1.901961
+OK053108	Spodoptera depravata	K	AAG	5	0.098039
+OK053108	Spodoptera depravata	L	CTA	11	0.121101
+OK053108	Spodoptera depravata	L	CTC	1	0.011009
+OK053108	Spodoptera depravata	L	CTG	0	0.000000
+OK053108	Spodoptera depravata	L	CTT	26	0.286239
+OK053108	Spodoptera depravata	L	TTA	499	5.493578
+OK053108	Spodoptera depravata	L	TTG	8	0.088073
+OK053108	Spodoptera depravata	M	ATA	273	1.863481
+OK053108	Spodoptera depravata	M	ATG	20	0.136519
+OK053108	Spodoptera depravata	N	AAC	17	0.133858
+OK053108	Spodoptera depravata	N	AAT	237	1.866142
+OK053108	Spodoptera depravata	P	CCA	47	1.504000
+OK053108	Spodoptera depravata	P	CCC	9	0.288000
+OK053108	Spodoptera depravata	P	CCG	0	0.000000
+OK053108	Spodoptera depravata	P	CCT	69	2.208000
+OK053108	Spodoptera depravata	Q	CAA	62	1.968254
+OK053108	Spodoptera depravata	Q	CAG	1	0.031746
+OK053108	Spodoptera depravata	R	CGA	30	2.264151
+OK053108	Spodoptera depravata	R	CGC	0	0.000000
+OK053108	Spodoptera depravata	R	CGG	2	0.150943
+OK053108	Spodoptera depravata	R	CGT	21	1.584906
+OK053108	Spodoptera depravata	S	AGA	95	2.324159
+OK053108	Spodoptera depravata	S	AGC	1	0.024465
+OK053108	Spodoptera depravata	S	AGG	0	0.000000
+OK053108	Spodoptera depravata	S	AGT	26	0.636086
+OK053108	Spodoptera depravata	S	TCA	88	2.152905
+OK053108	Spodoptera depravata	S	TCC	9	0.220183
+OK053108	Spodoptera depravata	S	TCG	0	0.000000
+OK053108	Spodoptera depravata	S	TCT	108	2.642202
+OK053108	Spodoptera depravata	T	ACA	66	1.795918
+OK053108	Spodoptera depravata	T	ACC	8	0.217687
+OK053108	Spodoptera depravata	T	ACG	0	0.000000
+OK053108	Spodoptera depravata	T	ACT	73	1.986395
+OK053108	Spodoptera depravata	V	GTA	69	1.890411
+OK053108	Spodoptera depravata	V	GTC	2	0.054795
+OK053108	Spodoptera depravata	V	GTG	3	0.082192
+OK053108	Spodoptera depravata	V	GTT	72	1.972603
+OK053108	Spodoptera depravata	W	TGA	95	1.979167
+OK053108	Spodoptera depravata	W	TGG	1	0.020833
+OK053108	Spodoptera depravata	Y	TAC	5	0.052083
+OK053108	Spodoptera depravata	Y	TAT	187	1.947917
+OK053109.1	Mamestra brassicae	A	GCA	44	1.375000
+OK053109.1	Mamestra brassicae	A	GCC	6	0.187500
+OK053109.1	Mamestra brassicae	A	GCG	2	0.062500
+OK053109.1	Mamestra brassicae	A	GCT	76	2.375000
+OK053109.1	Mamestra brassicae	C	TGC	1	0.062500
+OK053109.1	Mamestra brassicae	C	TGT	31	1.937500
+OK053109.1	Mamestra brassicae	D	GAC	6	0.179104
+OK053109.1	Mamestra brassicae	D	GAT	61	1.820896
+OK053109.1	Mamestra brassicae	E	GAA	67	1.835616
+OK053109.1	Mamestra brassicae	E	GAG	6	0.164384
+OK053109.1	Mamestra brassicae	F	TTC	25	0.136240
+OK053109.1	Mamestra brassicae	F	TTT	342	1.863760
+OK053109.1	Mamestra brassicae	G	GGA	123	2.435644
+OK053109.1	Mamestra brassicae	G	GGC	3	0.059406
+OK053109.1	Mamestra brassicae	G	GGG	17	0.336634
+OK053109.1	Mamestra brassicae	G	GGT	59	1.168317
+OK053109.1	Mamestra brassicae	H	CAC	4	0.119403
+OK053109.1	Mamestra brassicae	H	CAT	63	1.880597
+OK053109.1	Mamestra brassicae	I	ATC	18	0.073922
+OK053109.1	Mamestra brassicae	I	ATT	469	1.926078
+OK053109.1	Mamestra brassicae	K	AAA	98	1.902913
+OK053109.1	Mamestra brassicae	K	AAG	5	0.097087
+OK053109.1	Mamestra brassicae	L	CTA	20	0.218978
+OK053109.1	Mamestra brassicae	L	CTC	3	0.032847
+OK053109.1	Mamestra brassicae	L	CTG	1	0.010949
+OK053109.1	Mamestra brassicae	L	CTT	30	0.328467
+OK053109.1	Mamestra brassicae	L	TTA	480	5.255474
+OK053109.1	Mamestra brassicae	L	TTG	14	0.153285
+OK053109.1	Mamestra brassicae	M	ATA	245	1.856061
+OK053109.1	Mamestra brassicae	M	ATG	19	0.143939
+OK053109.1	Mamestra brassicae	N	AAC	15	0.118110
+OK053109.1	Mamestra brassicae	N	AAT	239	1.881890
+OK053109.1	Mamestra brassicae	P	CCA	43	1.387097
+OK053109.1	Mamestra brassicae	P	CCC	5	0.161290
+OK053109.1	Mamestra brassicae	P	CCG	0	0.000000
+OK053109.1	Mamestra brassicae	P	CCT	76	2.451613
+OK053109.1	Mamestra brassicae	Q	CAA	61	1.967742
+OK053109.1	Mamestra brassicae	Q	CAG	1	0.032258
+OK053109.1	Mamestra brassicae	R	CGA	36	2.716981
+OK053109.1	Mamestra brassicae	R	CGC	1	0.075472
+OK053109.1	Mamestra brassicae	R	CGG	3	0.226415
+OK053109.1	Mamestra brassicae	R	CGT	13	0.981132
+OK053109.1	Mamestra brassicae	S	AGA	92	2.250765
+OK053109.1	Mamestra brassicae	S	AGC	3	0.073394
+OK053109.1	Mamestra brassicae	S	AGG	0	0.000000
+OK053109.1	Mamestra brassicae	S	AGT	26	0.636086
+OK053109.1	Mamestra brassicae	S	TCA	74	1.810398
+OK053109.1	Mamestra brassicae	S	TCC	8	0.195719
+OK053109.1	Mamestra brassicae	S	TCG	0	0.000000
+OK053109.1	Mamestra brassicae	S	TCT	124	3.033639
+OK053109.1	Mamestra brassicae	T	ACA	60	1.632653
+OK053109.1	Mamestra brassicae	T	ACC	6	0.163265
+OK053109.1	Mamestra brassicae	T	ACG	0	0.000000
+OK053109.1	Mamestra brassicae	T	ACT	81	2.204082
+OK053109.1	Mamestra brassicae	V	GTA	62	1.878788
+OK053109.1	Mamestra brassicae	V	GTC	2	0.060606
+OK053109.1	Mamestra brassicae	V	GTG	6	0.181818
+OK053109.1	Mamestra brassicae	V	GTT	62	1.878788
+OK053109.1	Mamestra brassicae	W	TGA	95	1.979167
+OK053109.1	Mamestra brassicae	W	TGG	1	0.020833
+OK053109.1	Mamestra brassicae	Y	TAC	15	0.156250
+OK053109.1	Mamestra brassicae	Y	TAT	177	1.843750
+OQ732677.1	Mythimna separata	A	GCA	42	1.272727
+OQ732677.1	Mythimna separata	A	GCC	8	0.242424
+OQ732677.1	Mythimna separata	A	GCG	1	0.030303
+OQ732677.1	Mythimna separata	A	GCT	81	2.454545
+OQ732677.1	Mythimna separata	C	TGC	1	0.062500
+OQ732677.1	Mythimna separata	C	TGT	31	1.937500
+OQ732677.1	Mythimna separata	D	GAC	7	0.208955
+OQ732677.1	Mythimna separata	D	GAT	60	1.791045
+OQ732677.1	Mythimna separata	E	GAA	71	1.918919
+OQ732677.1	Mythimna separata	E	GAG	3	0.081081
+OQ732677.1	Mythimna separata	F	TTC	28	0.150538
+OQ732677.1	Mythimna separata	F	TTT	344	1.849462
+OQ732677.1	Mythimna separata	G	GGA	123	2.460000
+OQ732677.1	Mythimna separata	G	GGC	1	0.020000
+OQ732677.1	Mythimna separata	G	GGG	23	0.460000
+OQ732677.1	Mythimna separata	G	GGT	53	1.060000
+OQ732677.1	Mythimna separata	H	CAC	3	0.090909
+OQ732677.1	Mythimna separata	H	CAT	63	1.909091
+OQ732677.1	Mythimna separata	I	ATC	18	0.076596
+OQ732677.1	Mythimna separata	I	ATT	452	1.923404
+OQ732677.1	Mythimna separata	K	AAA	98	1.866667
+OQ732677.1	Mythimna separata	K	AAG	7	0.133333
+OQ732677.1	Mythimna separata	L	CTA	21	0.233333
+OQ732677.1	Mythimna separata	L	CTC	4	0.044444
+OQ732677.1	Mythimna separata	L	CTG	0	0.000000
+OQ732677.1	Mythimna separata	L	CTT	29	0.322222
+OQ732677.1	Mythimna separata	L	TTA	476	5.288889
+OQ732677.1	Mythimna separata	L	TTG	10	0.111111
+OQ732677.1	Mythimna separata	M	ATA	254	1.833935
+OQ732677.1	Mythimna separata	M	ATG	23	0.166065
+OQ732677.1	Mythimna separata	N	AAC	20	0.159363
+OQ732677.1	Mythimna separata	N	AAT	231	1.840637
+OQ732677.1	Mythimna separata	P	CCA	34	1.096774
+OQ732677.1	Mythimna separata	P	CCC	8	0.258065
+OQ732677.1	Mythimna separata	P	CCG	0	0.000000
+OQ732677.1	Mythimna separata	P	CCT	82	2.645161
+OQ732677.1	Mythimna separata	Q	CAA	61	1.936508
+OQ732677.1	Mythimna separata	Q	CAG	2	0.063492
+OQ732677.1	Mythimna separata	R	CGA	34	2.566038
+OQ732677.1	Mythimna separata	R	CGC	0	0.000000
+OQ732677.1	Mythimna separata	R	CGG	0	0.000000
+OQ732677.1	Mythimna separata	R	CGT	19	1.433962
+OQ732677.1	Mythimna separata	S	AGA	92	2.250765
+OQ732677.1	Mythimna separata	S	AGC	0	0.000000
+OQ732677.1	Mythimna separata	S	AGG	0	0.000000
+OQ732677.1	Mythimna separata	S	AGT	29	0.709480
+OQ732677.1	Mythimna separata	S	TCA	93	2.275229
+OQ732677.1	Mythimna separata	S	TCC	6	0.146789
+OQ732677.1	Mythimna separata	S	TCG	0	0.000000
+OQ732677.1	Mythimna separata	S	TCT	107	2.617737
+OQ732677.1	Mythimna separata	T	ACA	61	1.626667
+OQ732677.1	Mythimna separata	T	ACC	8	0.213333
+OQ732677.1	Mythimna separata	T	ACG	1	0.026667
+OQ732677.1	Mythimna separata	T	ACT	80	2.133333
+OQ732677.1	Mythimna separata	V	GTA	63	1.826087
+OQ732677.1	Mythimna separata	V	GTC	3	0.086957
+OQ732677.1	Mythimna separata	V	GTG	4	0.115942
+OQ732677.1	Mythimna separata	V	GTT	68	1.971014
+OQ732677.1	Mythimna separata	W	TGA	96	2.000000
+OQ732677.1	Mythimna separata	W	TGG	0	0.000000
+OQ732677.1	Mythimna separata	Y	TAC	9	0.096257
+OQ732677.1	Mythimna separata	Y	TAT	178	1.903743
+OR347227	Spodoptera frugiperda	A	GCA	43	1.376000
+OR347227	Spodoptera frugiperda	A	GCC	7	0.224000
+OR347227	Spodoptera frugiperda	A	GCG	1	0.032000
+OR347227	Spodoptera frugiperda	A	GCT	74	2.368000
+OR347227	Spodoptera frugiperda	C	TGC	1	0.064516
+OR347227	Spodoptera frugiperda	C	TGT	30	1.935484
+OR347227	Spodoptera frugiperda	D	GAC	2	0.057971
+OR347227	Spodoptera frugiperda	D	GAT	67	1.942029
+OR347227	Spodoptera frugiperda	E	GAA	62	1.746479
+OR347227	Spodoptera frugiperda	E	GAG	9	0.253521
+OR347227	Spodoptera frugiperda	F	TTC	34	0.186301
+OR347227	Spodoptera frugiperda	F	TTT	331	1.813699
+OR347227	Spodoptera frugiperda	G	GGA	105	2.100000
+OR347227	Spodoptera frugiperda	G	GGC	0	0.000000
+OR347227	Spodoptera frugiperda	G	GGG	23	0.460000
+OR347227	Spodoptera frugiperda	G	GGT	72	1.440000
+OR347227	Spodoptera frugiperda	H	CAC	5	0.149254
+OR347227	Spodoptera frugiperda	H	CAT	62	1.850746
+OR347227	Spodoptera frugiperda	I	ATC	17	0.074890
+OR347227	Spodoptera frugiperda	I	ATT	437	1.925110
+OR347227	Spodoptera frugiperda	K	AAA	92	1.803922
+OR347227	Spodoptera frugiperda	K	AAG	10	0.196078
+OR347227	Spodoptera frugiperda	L	CTA	13	0.143382
+OR347227	Spodoptera frugiperda	L	CTC	2	0.022059
+OR347227	Spodoptera frugiperda	L	CTG	2	0.022059
+OR347227	Spodoptera frugiperda	L	CTT	22	0.242647
+OR347227	Spodoptera frugiperda	L	TTA	496	5.470588
+OR347227	Spodoptera frugiperda	L	TTG	9	0.099265
+OR347227	Spodoptera frugiperda	M	ATA	270	1.868512
+OR347227	Spodoptera frugiperda	M	ATG	19	0.131488
+OR347227	Spodoptera frugiperda	N	AAC	17	0.131783
+OR347227	Spodoptera frugiperda	N	AAT	241	1.868217
+OR347227	Spodoptera frugiperda	P	CCA	41	1.322581
+OR347227	Spodoptera frugiperda	P	CCC	11	0.354839
+OR347227	Spodoptera frugiperda	P	CCG	2	0.064516
+OR347227	Spodoptera frugiperda	P	CCT	70	2.258065
+OR347227	Spodoptera frugiperda	Q	CAA	62	1.937500
+OR347227	Spodoptera frugiperda	Q	CAG	2	0.062500
+OR347227	Spodoptera frugiperda	R	CGA	28	2.113208
+OR347227	Spodoptera frugiperda	R	CGC	2	0.150943
+OR347227	Spodoptera frugiperda	R	CGG	1	0.075472
+OR347227	Spodoptera frugiperda	R	CGT	22	1.660377
+OR347227	Spodoptera frugiperda	S	AGA	89	2.184049
+OR347227	Spodoptera frugiperda	S	AGC	2	0.049080
+OR347227	Spodoptera frugiperda	S	AGG	0	0.000000
+OR347227	Spodoptera frugiperda	S	AGT	27	0.662577
+OR347227	Spodoptera frugiperda	S	TCA	89	2.184049
+OR347227	Spodoptera frugiperda	S	TCC	10	0.245399
+OR347227	Spodoptera frugiperda	S	TCG	0	0.000000
+OR347227	Spodoptera frugiperda	S	TCT	109	2.674847
+OR347227	Spodoptera frugiperda	T	ACA	63	1.691275
+OR347227	Spodoptera frugiperda	T	ACC	9	0.241611
+OR347227	Spodoptera frugiperda	T	ACG	1	0.026846
+OR347227	Spodoptera frugiperda	T	ACT	76	2.040268
+OR347227	Spodoptera frugiperda	V	GTA	70	1.944444
+OR347227	Spodoptera frugiperda	V	GTC	3	0.083333
+OR347227	Spodoptera frugiperda	V	GTG	2	0.055556
+OR347227	Spodoptera frugiperda	V	GTT	69	1.916667
+OR347227	Spodoptera frugiperda	W	TGA	97	2.000000
+OR347227	Spodoptera frugiperda	W	TGG	0	0.000000
+OR347227	Spodoptera frugiperda	Y	TAC	11	0.114583
+OR347227	Spodoptera frugiperda	Y	TAT	181	1.885417
+OR347228	Spodoptera frugiperda	A	GCA	42	1.344000
+OR347228	Spodoptera frugiperda	A	GCC	6	0.192000
+OR347228	Spodoptera frugiperda	A	GCG	2	0.064000
+OR347228	Spodoptera frugiperda	A	GCT	75	2.400000
+OR347228	Spodoptera frugiperda	C	TGC	3	0.193548
+OR347228	Spodoptera frugiperda	C	TGT	28	1.806452
+OR347228	Spodoptera frugiperda	D	GAC	3	0.088235
+OR347228	Spodoptera frugiperda	D	GAT	65	1.911765
+OR347228	Spodoptera frugiperda	E	GAA	63	1.774648
+OR347228	Spodoptera frugiperda	E	GAG	8	0.225352
+OR347228	Spodoptera frugiperda	F	TTC	27	0.147945
+OR347228	Spodoptera frugiperda	F	TTT	338	1.852055
+OR347228	Spodoptera frugiperda	G	GGA	117	2.340000
+OR347228	Spodoptera frugiperda	G	GGC	2	0.040000
+OR347228	Spodoptera frugiperda	G	GGG	11	0.220000
+OR347228	Spodoptera frugiperda	G	GGT	70	1.400000
+OR347228	Spodoptera frugiperda	H	CAC	8	0.238806
+OR347228	Spodoptera frugiperda	H	CAT	59	1.761194
+OR347228	Spodoptera frugiperda	I	ATC	15	0.066372
+OR347228	Spodoptera frugiperda	I	ATT	437	1.933628
+OR347228	Spodoptera frugiperda	K	AAA	95	1.862745
+OR347228	Spodoptera frugiperda	K	AAG	7	0.137255
+OR347228	Spodoptera frugiperda	L	CTA	16	0.176471
+OR347228	Spodoptera frugiperda	L	CTC	1	0.011029
+OR347228	Spodoptera frugiperda	L	CTG	0	0.000000
+OR347228	Spodoptera frugiperda	L	CTT	23	0.253676
+OR347228	Spodoptera frugiperda	L	TTA	493	5.437500
+OR347228	Spodoptera frugiperda	L	TTG	11	0.121324
+OR347228	Spodoptera frugiperda	M	ATA	272	1.882353
+OR347228	Spodoptera frugiperda	M	ATG	17	0.117647
+OR347228	Spodoptera frugiperda	N	AAC	15	0.116732
+OR347228	Spodoptera frugiperda	N	AAT	242	1.883268
+OR347228	Spodoptera frugiperda	P	CCA	42	1.354839
+OR347228	Spodoptera frugiperda	P	CCC	8	0.258065
+OR347228	Spodoptera frugiperda	P	CCG	1	0.032258
+OR347228	Spodoptera frugiperda	P	CCT	73	2.354839
+OR347228	Spodoptera frugiperda	Q	CAA	61	1.906250
+OR347228	Spodoptera frugiperda	Q	CAG	3	0.093750
+OR347228	Spodoptera frugiperda	R	CGA	28	2.113208
+OR347228	Spodoptera frugiperda	R	CGC	1	0.075472
+OR347228	Spodoptera frugiperda	R	CGG	2	0.150943
+OR347228	Spodoptera frugiperda	R	CGT	22	1.660377
+OR347228	Spodoptera frugiperda	S	AGA	89	2.170732
+OR347228	Spodoptera frugiperda	S	AGC	2	0.048780
+OR347228	Spodoptera frugiperda	S	AGG	0	0.000000
+OR347228	Spodoptera frugiperda	S	AGT	30	0.731707
+OR347228	Spodoptera frugiperda	S	TCA	89	2.170732
+OR347228	Spodoptera frugiperda	S	TCC	6	0.146341
+OR347228	Spodoptera frugiperda	S	TCG	0	0.000000
+OR347228	Spodoptera frugiperda	S	TCT	112	2.731707
+OR347228	Spodoptera frugiperda	T	ACA	64	1.706667
+OR347228	Spodoptera frugiperda	T	ACC	8	0.213333
+OR347228	Spodoptera frugiperda	T	ACG	1	0.026667
+OR347228	Spodoptera frugiperda	T	ACT	77	2.053333
+OR347228	Spodoptera frugiperda	V	GTA	68	1.875862
+OR347228	Spodoptera frugiperda	V	GTC	2	0.055172
+OR347228	Spodoptera frugiperda	V	GTG	2	0.055172
+OR347228	Spodoptera frugiperda	V	GTT	73	2.013793
+OR347228	Spodoptera frugiperda	W	TGA	96	1.979381
+OR347228	Spodoptera frugiperda	W	TGG	1	0.020619
+OR347228	Spodoptera frugiperda	Y	TAC	7	0.072917
+OR347228	Spodoptera frugiperda	Y	TAT	185	1.927083
+OR347229	Spodoptera frugiperda	A	GCA	43	1.376000
+OR347229	Spodoptera frugiperda	A	GCC	6	0.192000
+OR347229	Spodoptera frugiperda	A	GCG	1	0.032000
+OR347229	Spodoptera frugiperda	A	GCT	75	2.400000
+OR347229	Spodoptera frugiperda	C	TGC	1	0.064516
+OR347229	Spodoptera frugiperda	C	TGT	30	1.935484
+OR347229	Spodoptera frugiperda	D	GAC	3	0.086957
+OR347229	Spodoptera frugiperda	D	GAT	66	1.913043
+OR347229	Spodoptera frugiperda	E	GAA	62	1.746479
+OR347229	Spodoptera frugiperda	E	GAG	9	0.253521
+OR347229	Spodoptera frugiperda	F	TTC	35	0.192308
+OR347229	Spodoptera frugiperda	F	TTT	329	1.807692
+OR347229	Spodoptera frugiperda	G	GGA	106	2.120000
+OR347229	Spodoptera frugiperda	G	GGC	0	0.000000
+OR347229	Spodoptera frugiperda	G	GGG	22	0.440000
+OR347229	Spodoptera frugiperda	G	GGT	72	1.440000
+OR347229	Spodoptera frugiperda	H	CAC	5	0.149254
+OR347229	Spodoptera frugiperda	H	CAT	62	1.850746
+OR347229	Spodoptera frugiperda	I	ATC	18	0.079295
+OR347229	Spodoptera frugiperda	I	ATT	436	1.920705
+OR347229	Spodoptera frugiperda	K	AAA	93	1.823529
+OR347229	Spodoptera frugiperda	K	AAG	9	0.176471
+OR347229	Spodoptera frugiperda	L	CTA	14	0.154128
+OR347229	Spodoptera frugiperda	L	CTC	2	0.022018
+OR347229	Spodoptera frugiperda	L	CTG	1	0.011009
+OR347229	Spodoptera frugiperda	L	CTT	22	0.242202
+OR347229	Spodoptera frugiperda	L	TTA	498	5.482569
+OR347229	Spodoptera frugiperda	L	TTG	8	0.088073
+OR347229	Spodoptera frugiperda	M	ATA	270	1.868512
+OR347229	Spodoptera frugiperda	M	ATG	19	0.131488
+OR347229	Spodoptera frugiperda	N	AAC	17	0.131783
+OR347229	Spodoptera frugiperda	N	AAT	241	1.868217
+OR347229	Spodoptera frugiperda	P	CCA	41	1.322581
+OR347229	Spodoptera frugiperda	P	CCC	12	0.387097
+OR347229	Spodoptera frugiperda	P	CCG	2	0.064516
+OR347229	Spodoptera frugiperda	P	CCT	69	2.225806
+OR347229	Spodoptera frugiperda	Q	CAA	61	1.906250
+OR347229	Spodoptera frugiperda	Q	CAG	3	0.093750
+OR347229	Spodoptera frugiperda	R	CGA	28	2.113208
+OR347229	Spodoptera frugiperda	R	CGC	2	0.150943
+OR347229	Spodoptera frugiperda	R	CGG	1	0.075472
+OR347229	Spodoptera frugiperda	R	CGT	22	1.660377
+OR347229	Spodoptera frugiperda	S	AGA	89	2.184049
+OR347229	Spodoptera frugiperda	S	AGC	2	0.049080
+OR347229	Spodoptera frugiperda	S	AGG	0	0.000000
+OR347229	Spodoptera frugiperda	S	AGT	27	0.662577
+OR347229	Spodoptera frugiperda	S	TCA	89	2.184049
+OR347229	Spodoptera frugiperda	S	TCC	9	0.220859
+OR347229	Spodoptera frugiperda	S	TCG	0	0.000000
+OR347229	Spodoptera frugiperda	S	TCT	110	2.699387
+OR347229	Spodoptera frugiperda	T	ACA	63	1.680000
+OR347229	Spodoptera frugiperda	T	ACC	9	0.240000
+OR347229	Spodoptera frugiperda	T	ACG	1	0.026667
+OR347229	Spodoptera frugiperda	T	ACT	77	2.053333
+OR347229	Spodoptera frugiperda	V	GTA	70	1.958042
+OR347229	Spodoptera frugiperda	V	GTC	2	0.055944
+OR347229	Spodoptera frugiperda	V	GTG	2	0.055944
+OR347229	Spodoptera frugiperda	V	GTT	69	1.930070
+OR347229	Spodoptera frugiperda	W	TGA	97	2.000000
+OR347229	Spodoptera frugiperda	W	TGG	0	0.000000
+OR347229	Spodoptera frugiperda	Y	TAC	11	0.114583
+OR347229	Spodoptera frugiperda	Y	TAT	181	1.885417
+PP230665.1	Agrotis segetum	A	GCA	40	1.230769
+PP230665.1	Agrotis segetum	A	GCC	6	0.184615
+PP230665.1	Agrotis segetum	A	GCG	4	0.123077
+PP230665.1	Agrotis segetum	A	GCT	80	2.461538
+PP230665.1	Agrotis segetum	C	TGC	3	0.181818
+PP230665.1	Agrotis segetum	C	TGT	30	1.818182
+PP230665.1	Agrotis segetum	D	GAC	3	0.090909
+PP230665.1	Agrotis segetum	D	GAT	63	1.909091
+PP230665.1	Agrotis segetum	E	GAA	68	1.813333
+PP230665.1	Agrotis segetum	E	GAG	7	0.186667
+PP230665.1	Agrotis segetum	F	TTC	28	0.150943
+PP230665.1	Agrotis segetum	F	TTT	343	1.849057
+PP230665.1	Agrotis segetum	G	GGA	115	2.288557
+PP230665.1	Agrotis segetum	G	GGC	4	0.079602
+PP230665.1	Agrotis segetum	G	GGG	42	0.835821
+PP230665.1	Agrotis segetum	G	GGT	40	0.796020
+PP230665.1	Agrotis segetum	H	CAC	6	0.176471
+PP230665.1	Agrotis segetum	H	CAT	62	1.823529
+PP230665.1	Agrotis segetum	I	ATC	23	0.099138
+PP230665.1	Agrotis segetum	I	ATT	441	1.900862
+PP230665.1	Agrotis segetum	K	AAA	93	1.788462
+PP230665.1	Agrotis segetum	K	AAG	11	0.211538
+PP230665.1	Agrotis segetum	L	CTA	20	0.220183
+PP230665.1	Agrotis segetum	L	CTC	3	0.033028
+PP230665.1	Agrotis segetum	L	CTG	1	0.011009
+PP230665.1	Agrotis segetum	L	CTT	30	0.330275
+PP230665.1	Agrotis segetum	L	TTA	479	5.273394
+PP230665.1	Agrotis segetum	L	TTG	12	0.132110
+PP230665.1	Agrotis segetum	M	ATA	258	1.911111
+PP230665.1	Agrotis segetum	M	ATG	12	0.088889
+PP230665.1	Agrotis segetum	N	AAC	24	0.192000
+PP230665.1	Agrotis segetum	N	AAT	226	1.808000
+PP230665.1	Agrotis segetum	P	CCA	36	1.152000
+PP230665.1	Agrotis segetum	P	CCC	12	0.384000
+PP230665.1	Agrotis segetum	P	CCG	1	0.032000
+PP230665.1	Agrotis segetum	P	CCT	76	2.432000
+PP230665.1	Agrotis segetum	Q	CAA	61	1.967742
+PP230665.1	Agrotis segetum	Q	CAG	1	0.032258
+PP230665.1	Agrotis segetum	R	CGA	34	2.566038
+PP230665.1	Agrotis segetum	R	CGC	0	0.000000
+PP230665.1	Agrotis segetum	R	CGG	0	0.000000
+PP230665.1	Agrotis segetum	R	CGT	19	1.433962
+PP230665.1	Agrotis segetum	S	AGA	94	2.320988
+PP230665.1	Agrotis segetum	S	AGC	3	0.074074
+PP230665.1	Agrotis segetum	S	AGG	0	0.000000
+PP230665.1	Agrotis segetum	S	AGT	27	0.666667
+PP230665.1	Agrotis segetum	S	TCA	68	1.679012
+PP230665.1	Agrotis segetum	S	TCC	9	0.222222
+PP230665.1	Agrotis segetum	S	TCG	2	0.049383
+PP230665.1	Agrotis segetum	S	TCT	121	2.987654
+PP230665.1	Agrotis segetum	T	ACA	66	1.736842
+PP230665.1	Agrotis segetum	T	ACC	10	0.263158
+PP230665.1	Agrotis segetum	T	ACG	1	0.026316
+PP230665.1	Agrotis segetum	T	ACT	75	1.973684
+PP230665.1	Agrotis segetum	V	GTA	72	1.945946
+PP230665.1	Agrotis segetum	V	GTC	2	0.054054
+PP230665.1	Agrotis segetum	V	GTG	5	0.135135
+PP230665.1	Agrotis segetum	V	GTT	69	1.864865
+PP230665.1	Agrotis segetum	W	TGA	92	1.916667
+PP230665.1	Agrotis segetum	W	TGG	4	0.083333
+PP230665.1	Agrotis segetum	Y	TAC	18	0.190476
+PP230665.1	Agrotis segetum	Y	TAT	171	1.809524

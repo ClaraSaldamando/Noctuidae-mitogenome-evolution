@@ -1,0 +1,31 @@
+accession	species	CDS	sense_codons	excluded_stops	trailing_bases
+JN039362.1	Sesamia inferens	13	3733	10	3
+JX316220	Spodoptera exigua	13	3724	8	5
+KC894725.1	Agrotis segetum	13	3727	10	3
+KF163965.1	Agrotis ipsilon	13	3726	10	3
+KF730242.1	Mythimna separata	13	3724	10	3
+MF152840.1	Athetis lepigone	13	3729	9	4
+MF152841.1	Athetis lepigone	13	3729	9	4
+MF152842.1	Athetis lepigone	13	3729	9	4
+MG437190.1	Helicoverpa armigera armigera	13	3724	10	3
+MG437193.1	Helicoverpa armigera armigera	13	3724	10	3
+MG437194.1	Helicoverpa armigera conferta	13	3724	10	3
+MK358044.1	Trichoplusia ni	13	3727	10	3
+MN735183	Spodoptera exigua	13	3724	10	4
+MN803323	Spodoptera littoralis	13	3724	8	5
+MT816470	Spodoptera littoralis	13	3724	10	3
+MT906792	Spodoptera exempta	13	3721	10	3
+MZ397984.1	Agrotis ipsilon	13	3726	10	3
+MZ603870	Spodoptera litura	13	3724	8	5
+MZ618263	Spodoptera litura	13	3724	10	3
+NC_014668.1	Helicoverpa armigera	13	3724	9	4
+NC_022676	Spodoptera litura	13	3704	8	6
+NC_036057.1	Athetis lepigone	13	3729	9	4
+NC_045936.1	Trichoplusia ni	13	3727	9	4
+OK053108	Spodoptera depravata	13	3721	10	3
+OK053109.1	Mamestra brassicae	13	3725	10	3
+OQ732677.1	Mythimna separata	13	3724	10	3
+OR347227	Spodoptera frugiperda	13	3724	10	3
+OR347228	Spodoptera frugiperda	13	3724	10	3
+OR347229	Spodoptera frugiperda	13	3724	10	3
+PP230665.1	Agrotis segetum	13	3726	10	3
